@@ -1,0 +1,65 @@
+{{> header}}
+<div class="container">
+    <div style="margin: 40px auto; text-align: center;">
+        <h1>MY ORDER</h1>
+    </div>
+    {{#each orders}}
+    <div class="row mb-4" style="border-bottom: 1px solid grey;">
+        {{#each this.item}}
+        <div class="row mb-4">
+            <div class="col-md-5 col-lg-3 col-xl-3">
+                <div class="view zoom overlay z-depth-1 rounded mb-3 mb-md-0">
+                    <img class="img-fluid w-100" src="/img/{{this.item.img}}" alt="Sample">
+                </div>
+            </div>
+            <div class="col-md-7 col-lg-9 col-xl-9">
+                <div>
+                    <div class="d-flex justify-content-between">
+                        <div>
+                            <h5>{{this.item.title}}</h5>
+                            <p class="mb-3 text-muted text-uppercase small">Price:
+                                {{#if this.item.salePrice}}
+                                <small><del>${{this.item.price}}</del></small>
+                                <span class="sale-price">${{this.item.salePrice}}</span>
+                            </p>
+                            {{else}}
+                            ${{this.item.price}}
+                            {{/if}}
+                            <p class="mb-2 text-muted text-uppercase small">Type: {{this.item.type}}</p>
+                            <p class="mb-3 text-muted text-uppercase small">Brand: {{this.item.brand}}</p>
+                        </div>
+                        <div>
+                            <h5>Quantity</h5>
+                            <p class="mb-3 text-uppercase " style="text-align: center; font-weight: bold;">{{this.qty}}
+                            </p>
+                            <small id="passwordHelpBlock" class="form-text text-muted text-center">
+                                (Note, {{this.qty}} piece)
+                            </small>
+                        </div>
+                        <div>
+                            <h5>Status</h5>
+                            <p style="color: brown;">Waiting for confirm</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        {{/each}}
+        <hr>
+        <div class="row mb-4" >
+                    <div class="d-flex justify-content-around" >
+                        <div style="text-align: center; width: 200px; border-top: 1 solid grey;">
+                            <h5>Total Price</h5>
+                            <p style="color: brown;"><strong>${{this.cart.totalPrice}}</strong></p>
+                        </div>
+                        <div style="margin-left: 60px; text-align: center; width: 200px;" >
+                            <h5>Ordered at </h5>
+                            <p style="color: brown;"><strong>{{this.dateOrder}}</strong></p>
+                    </div>
+            </div>
+        </div>
+    </div>
+    {{/each}}
+</div>
+{{> footer}}

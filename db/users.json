@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "5fe1e367728bfc3b7490b53e"
+  },
+  "email": "test3@gmail.com",
+  "password": "$2a$05$paL46W980.QMAgxFlWBq7.9lMvJ7tNpEwmBkiDAc5ep5D8sQiCYDS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe20ad798c179108897b386"
+  },
+  "email": "test5@gmail.com",
+  "password": "$2a$05$95miNATi.NbOWdM7m25UROJmFZLBZpL4QsaK1073bSGldxDC/sjpG",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe220082630b4288832216c"
+  },
+  "email": "Nga12012000@gmail.com",
+  "__v": 0,
+  "password": "$2a$05$ghhq5Hs8Au/kU51evZvJVOg3VOe4BCPHmI3HbaulSxdrcaDoWgUyq",
+  "resetPasswordToken": "2256ffb7bc3b1b5d88d86ff81f302034e7d12c75",
+  "address": "Đại học hà nội",
+  "city": "Hà Nội",
+  "country": "Vietnam",
+  "name": "Hoang Thanh Nga",
+  "phone": "0123456789",
+  "postalCode": "100000"
+},{
+  "_id": {
+    "$oid": "5fe241f5743a0932101b7f11"
+  },
+  "email": "test12@gmail.com",
+  "password": "$2a$05$uSlD5O.oxVr/sM6n4BQcFeEvHSkYvao0u35YzlPEhoqc5ZBAHtFK2",
+  "__v": 0,
+  "name": "user test 12",
+  "phone": "121212121",
+  "city": "ha noi",
+  "country": "Vietnam",
+  "address": "dai hoc ha noi"
+},{
+  "_id": {
+    "$oid": "5fe35e02513e2238c4fb8096"
+  },
+  "email": "admin@test.com",
+  "password": "$2a$05$uugFYNZUACg4NvaKR3O4U.kBQCPzZlf8Q2bIgaofMfsZQHYnwvK/6",
+  "__v": 0,
+  "role": "ADMIN"
+},{
+  "_id": {
+    "$oid": "6048e5ccd61ebd2e60a462c0"
+  },
+  "email": "avc@test.com",
+  "password": "$2a$05$t61mQUsaX24hua8BG0fX9uJJiCcrZI4SQiffh/S1CbwiJzYyvP3lC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6048e68ca42f6f1dd44e5a12"
+  },
+  "email": "aavc@gmail.com.edu",
+  "password": "$2a$05$LXLTv.tYtZwhrQuoBmyjG.4W2Yj/GvYx0TN3QeAQw52MeMhcbtXLy",
+  "__v": 0,
+  "address": "dai hoc ha noi",
+  "city": "hanu",
+  "country": "Vietnam",
+  "name": "Hoang nga",
+  "phone": "12",
+  "postalCode": "1000"
+},{
+  "_id": {
+    "$oid": "6048ef5bf64dc92958851da6"
+  },
+  "email": "test@test.com",
+  "password": "$2a$05$DhVm0KCcB9reiGFuqAmrnev/hMJezHub0X1yxed.JmRK0eOAOfn4C",
+  "__v": 0,
+  "address": "dai hoc ha noi",
+  "city": "hanu",
+  "country": "Vietnam",
+  "name": "Hoang nga",
+  "phone": "012345678",
+  "postalCode": "100000"
+},{
+  "_id": {
+    "$oid": "6049ee76ef83d53cac335d31"
+  },
+  "email": "test4@gmail.com",
+  "password": "$2a$05$0WDd9Prh/E0UB1FkMnMLi.IF2Xdpws1xo4LxkMNLr2llJ3Cx0JngG",
+  "__v": 0,
+  "resetPasswordToken": "cd9b5a827a3ff28a1f341e6c6667f46b847fca7c",
+  "address": "dai hoc ha noi",
+  "city": "hanu",
+  "country": "Vietnam",
+  "name": "Hoang nga",
+  "phone": "123456789",
+  "postalCode": "100000"
+},{
+  "_id": {
+    "$oid": "6056258a5818ae2e1896db0a"
+  },
+  "name": "Hoang nga",
+  "email": "test4@test.com",
+  "password": "$2a$05$Nu06P.cuAqSRVFHjp4myvO7wvHLlD2BbDlYBJDkUdGD2qJ93Ub7aa",
+  "__v": 0,
+  "resetPasswordToken": "cf75fcfcab5337849e04730e63159b9c4ba5f0a4"
+}]

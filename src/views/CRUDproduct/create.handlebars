@@ -1,0 +1,198 @@
+{{> header}}
+<div class="reviewbox ">
+    <div class="reviewbox-section main container product-id">
+    <div class="row">
+        <div class="product">
+            <div>
+                <img class="reviewbox-img" src="/img/0af1ed4120c3c7604f3c13ff6a83bd0e740f5e01.jpg" id="current_img">
+            </div>
+        </div>
+        <div class="infor">
+            <div class="product-infor">
+                <span class="infor-subtitle">moisturizer</span>
+                <h1 class="infor-title" id="infor-title">Natural Moisturizing Factors + HA</h1>
+                <p class="infor-description" id="infor-description">Features two forms of Hyaluronic Acid plus a blend of powerful natural fruit extracts, antioxidants and a peptide leaving skin with a smooth</p>
+            </div>
+            <div class="price">
+                <span class="price-title">
+                <small class="hidden" id="with-sale"><del>$</del><del id="current-price-with-sale">30.8</del></small>
+                <small id="symbol1">$</small><small id="current-price">30.8</small>
+                <span class="sale-price hidden" style="color: brown; font-weight: bold;" id="symbol">$</span><span class="sale-price hidden" style="color: brown; font-weight: bold;" id="current-sale-price">20.05</span>
+                </span>
+                <a href="#" class="price-btn">ADD TO CART</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container product-detail">
+    <div class="main-detail">
+        <div class="title">
+            <h5 style="font-weight: bold;">WHAT IT IS</h5>
+            <p class="description sub-description" id="sub-description">Surface hydration formula</p>
+        </div>
+        <div class="feature">
+            <ul class="feature-group" id="main-Feature">
+                <li class="feature-group-item">Cetyl Alcohol</li>
+                <li class="feature-group-item">Cetyl Alcohol</li>
+                <li class="feature-group-item">Cetyl Alcohol</li>
+            </ul>
+        </div>
+        <div class="sub-detail-1">
+            <h5 style="font-weight: bold;">INGREDIENTS</h5>
+            <ul class="feature-group">
+                <p class="description" id="description">This formula offers non-greasy hydration that acts as a direct topical supplement of impaired NMF components. It contains 11 amino acids, phospholipids, alpha/beta/gamma fatty acids</p>
+            </ul>
+        </div>
+
+        <div class="sub-detail-2">
+            <h6 class="" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false"
+                aria-controls="collapseExample">
+                + More Information
+            </h6>
+            <div class="collapse" id="collapseExample">
+                <div class="card card-body" id="sub-detail">
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+</div>
+<div class="container" style="margin: auto">
+<div class="container create-form col-md-6">
+    <h3>Create a new product</h3>
+    <form method="POST" action="/admin/store">
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label for="title">Product name</label>
+                <input type="text" class="form-control" name="title" placeholder="Product name" id="title" onkeyup="currentInputforTitle()">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="brand">Brand name</label>
+                <input type="text" class="form-control" name="brand" placeholder="Brand name">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="type">Type of product</label>
+            <input type="text" class="form-control" name="type" placeholder="Serum, Cleansing, Moisturisers , .. " id="type" onkeyup="currentInputforType()">
+        </div>
+        <div class="form-group">
+            <label for="qty">Quantity of product</label>
+            <input type="text" class="form-control" name="qty" placeholder="number: 10 ....">
+        </div>
+        <div class="form-group">
+            <label for="price">Price of product</label>
+            <input type="text" class="form-control" name="price" placeholder="number: 10 ...." id="price" onkeyup="currentInputforPrice()">
+        </div>
+        <div class="form-group">
+            <label for="salePrice">Sale Price of product</label>
+            <input type="text" class="form-control" name="salePrice" placeholder="number: 10 ...." id="saleprice" onkeyup="currentInputforSaleprice()">
+        </div>
+        <div class="form-group">
+                <label for="img">Image</label>
+                <input type="file" class="form-control-file" id="img" name="img" onchange="currentInputforImage()">
+        </div>
+        <div class="form-group">
+            <label for="tag">Tag</label>
+            <input type="text" class="form-control" name="tag" placeholder="BestSellers, NewArrivals, ..">
+        </div>
+        <div class="form-group">
+            <label for="main_detail_title" style="font-weight: bold;">WHAT IT IS</label>
+        </div>
+        <div class="form-group">
+    <label for="main_detail_description">Main description</label>
+    <textarea class="form-control" rows="3" name="main_detail_description"placeholder="Provides short- and long-term moisturization .... "
+    id="mainDescription" onkeyup="currentInputforMainDes()"></textarea>
+  </div>
+        <div class="form-group">
+            <label for="sub_description">Short description</label>
+            <textarea class="form-control" rows="3" name="sub_description" placeholder="Provide short description" 
+            id="subDescription" onkeyup="currentInputforSubDes()"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="main_detail_feature">Feature</label>
+            <textarea class="form-control" rows="3" name="main_detail_feature" placeholder="Separate features by ' , ' " 
+            id="mainFeature" onkeyup="currentInputforMainFeature()"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="sub_detail_title" style="font-weight: bold;">INGREDIENTS</label>
+        </div>
+        <div class="form-group">
+            <label for="sub_detail_feature">List of Ingredient</label>
+            <textarea class="form-control" rows="3" name="sub_detail_feature"placeholder="Provides short- and long-term moisturization ...." id="subFeature" onkeyup="currentInputforSubfeature()"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="sub_detail_2">More detail information</label>
+            <textarea class="form-control" rows="3" name="sub_detail_2" id="subDetail"onkeyup="currentInputforSubDetail()" ></textarea>
+        </div>
+        <button type="submit" class="btn btn-dark">Create</button>
+    </form>
+</div>
+</div>
+<script>
+    const reviewbox = document.querySelector(".reviewbox");
+    var bottom = window.innerHeight + reviewbox.clientHeight - reviewbox.offsetTop;
+    function fixreviewbox(){
+        if(window.scrollY <= bottom){
+            reviewbox.classList.remove('hidden');
+        }else{
+            reviewbox.classList.add('hidden');
+        }
+    }
+    
+    function currentInputforImage(){
+        var img = document.querySelector('#img').value;
+        {{!-- C:\fakepath\452bc0732f09de1b0f3405c0d170fb31941fcf02.jpg --}}
+        var filename = img.replace(/^.*[\\\/]/, '');
+        document.querySelector('#current_img').src = '/img/'+filename;
+    }
+    function currentInputforTitle(){
+        var infor_title_value = document.querySelector('#title').value;
+        document.querySelector('#infor-title').innerHTML = infor_title_value;
+    }
+    function currentInputforType(){
+        var infor_subtitle_value = document.querySelector('#type').value;
+        document.querySelector('.infor-subtitle').innerHTML = infor_subtitle_value;
+    }
+    function currentInputforPrice(){
+        var current_price = document.querySelector('#price').value;
+        document.querySelector('#current-price').innerHTML = current_price;
+    }
+    function currentInputforSaleprice(){
+        document.querySelector('#current-price').classList.add('hidden');
+        document.querySelector('#symbol1').classList.add('hidden');
+        document.querySelector('#current-sale-price').classList.remove('hidden');
+        document.querySelector('#symbol').classList.remove('hidden');
+        document.querySelector('#with-sale').classList.remove('hidden');
+        document.querySelector('#current-price-with-sale').classList.remove('hidden');
+        var sale_price = document.querySelector('#saleprice').value;
+        document.querySelector('#current-sale-price').innerHTML = sale_price;
+        document.querySelector('#current-price-with-sale').innerHTML = document.querySelector('#price').value;
+
+    }
+    function currentInputforMainDes(){
+        var description = document.querySelector('#mainDescription').value;
+        document.querySelector('#infor-description').innerHTML = description;
+    }
+    function currentInputforMainFeature(){
+        var features = document.querySelector('#mainFeature').value;
+        var featureList = features.split(",");
+        var list = "<li" + " class=" + '"' +"feature-group-item" + '"' +">" + featureList.join("</li><li " + " class=" + '"' +"feature-group-item" + '"' +">") + "</li>";
+        console.log(list);
+        document.getElementById("main-Feature").innerHTML = list;
+    }
+    function currentInputforSubfeature(){
+        var description = document.querySelector('#subFeature').value;
+        document.querySelector('#description').innerHTML = description;
+    }
+    function currentInputforSubDes(){
+        var description = document.querySelector('#subDescription').value;
+        document.querySelector('#sub-description').innerHTML = description;
+    }
+    function currentInputforSubDetail(){
+        var description = document.querySelector('#subDetail').value;
+        document.querySelector('#sub-detail').innerHTML = description;
+    }
+    window.addEventListener('scroll', fixreviewbox);
+</script>
+{{> footer}}

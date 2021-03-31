@@ -1,0 +1,631 @@
+[{
+  "_id": {
+    "$oid": "5fe5b34f4b71f831b8b68a52"
+  },
+  "user": {
+    "$oid": "5fe241f5743a0932101b7f11"
+  },
+  "name": "user test 12",
+  "phone": "121212121",
+  "cart": {
+    "items": {
+      "5fbf74c93d8599213f1d3084": {
+        "item": {
+          "tag": [
+            "NewArrivals"
+          ],
+          "_id": "5fbf74c93d8599213f1d3084",
+          "title": "Vitamin Booster Vital A Elixirx",
+          "img": "fullsizeoutput_68f_1000x.jpg",
+          "brand": "mukti",
+          "price": 110.05,
+          "salePrice": 82.35,
+          "qty": 20,
+          "detail": {
+            "main_detail": {
+              "title": "Ingredient Highlights",
+              "description": "Features two forms of Hyaluronic Acid plus a blend of powerful natural fruit extracts, antioxidants and a peptide leaving skin with a smooth, refreshed appearance.                 The ultra-light texture absorbs instantly without leaving skin feeling greasy.",
+              "feature": [
+                "farm-made Calendula extract + Organic Sunflower Seed Oil, Camellia Oleifera (Camellia Seed) Oil, Raspberry (Rubus idaeus) Oil",
+                "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,",
+                "Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower",
+                "Nettle Leaf, and Artemisia Flower ",
+                "Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower"
+              ]
+            },
+            "sub_detail": {
+              "title": "Ingredient Highlights",
+              "feature": "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,,Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower,Nettle Leaf, and Artemisia Flower ,Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower,Vitis Vinifera (Grape) Seed Oil"
+            },
+            "sub_detail_2": "Luna is personal to me - it was my first plant oil creation. Luna is deeply intoxicating with the additional blend of the sweet, floral aroma of Clary Sage + the rich, earthy and woody aroma of Sandalwood. This new blend is similar to the experience you have when you walk through my gardens at our farm. If you’ve never tried a cleansing oil, I know you and your skin will love Luna and your experience will be one you come back to – every day. "
+          },
+          "type": "serum",
+          "createdAt": "2020-12-25T09:38:54.395Z"
+        },
+        "qty": 2,
+        "price": 164.7
+      },
+      "5fbf7c933d8599213f1d3086": {
+        "item": {
+          "tag": [
+            "NewArrivals",
+            "BestSellers"
+          ],
+          "_id": "5fbf7c933d8599213f1d3086",
+          "title": "Rose Blossom Hydrating Mist",
+          "img": "product-large-image-7944eb7a637dad8aa51a5a6131de7c46.JPG",
+          "brand": "mukti",
+          "price": 54.95,
+          "salePrice": 40.05,
+          "qty": 7,
+          "detail": {
+            "main_detail": {
+              "title": "Ingredient Highlights",
+              "description": "Hand picked Bulgarian rose petals are combined with native Australian extracts of Kakadu Plum.",
+              "feature": [
+                "Provides short- and long-term moisturization",
+                "Reduces the appearance of fine lines and wrinkles",
+                "Keeps skin uniformly hydrated.",
+                "Alleviates tightness and moisturizes without leaving skin feeling sticky",
+                "Can be used under moisturizer for added hydration"
+              ]
+            },
+            "sub_detail": {
+              "title": "Assists with product penetration",
+              "feature": "Aloe barbadensis (Aloe Vera) leaf juice*,Rosa centifolia (Rose) hydrosol*,,Terminalia ferndinandiana (Kakadu Plum) extract,Melaleuca alternifolia (Snowflower) extract,Anigozanthos flavidus"
+            },
+            "sub_detail_2": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident."
+          },
+          "type": "moisturiser",
+          "createdAt": "2020-12-25T09:39:01.157Z"
+        },
+        "qty": 1,
+        "price": 40.05
+      }
+    },
+    "totalQty": 3,
+    "totalPrice": 204.75
+  },
+  "address": {
+    "home": "dai hoc ha noi",
+    "city": "ha noi",
+    "country": "Vietnam",
+    "zip": "1000"
+  },
+  "payment": {
+    "ccname": "User Test 12",
+    "ccnumber": "233232121",
+    "ccexpiration": "121212",
+    "cccvv": "121212"
+  },
+  "dateOrder": "Fri Dec 25 2020 16:39:27",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5b37a4b71f831b8b68a53"
+  },
+  "user": {
+    "$oid": "5fe241f5743a0932101b7f11"
+  },
+  "name": "user test 12",
+  "phone": "121212121",
+  "cart": {
+    "items": {
+      "5fe4979aeea5c434e0625878": {
+        "item": {
+          "tag": [
+            ""
+          ],
+          "_id": "5fe4979aeea5c434e0625878",
+          "title": "CRUSHED OIL-INFUSED GLOSS MINI TRIO",
+          "img": "bb_sku_ENJ501_1080x1080_0.jpg",
+          "brand": "bobbi brown",
+          "price": 20.05,
+          "salePrice": null,
+          "qty": 7,
+          "detail": {
+            "main_detail": {
+              "title": "WHAT IT IS",
+              "description": "A go-anywhere set of our NEW super-smooth, ultra-hydrating, non-sticky lip gloss in three ultra-flattering shades. ",
+              "feature": [
+                "Hydrogenated Polyisobutene",
+                " Polybutene",
+                " Pentaerythrityl Tetraisostearate",
+                " Ethylene/Propylene/Styrene Copolymer",
+                " C12-15 Alkyl Benzoate",
+                " Olea Europaea (Olive) Fruit Oil",
+                " Prunus Armeniaca (Apricot) Kernel Oil",
+                " Tocopheryl Acetate",
+                " Aleurites Moluccana (Kukui) Seed Oil"
+              ]
+            },
+            "sub_detail": {
+              "title": "How to use",
+              "description": "Swipe across lips and go or layer over Crushed Lip Color for a bolder look.",
+              "feature": "Swipe across lips and go or layer over Crushed Lip Color for a bolder look."
+            },
+            "sub_detail_2": "Swipe across lips and go or layer over Crushed Lip Color for a bolder look."
+          },
+          "type": "lip",
+          "createdAt": "2020-12-24T13:28:58.048Z",
+          "__v": 0
+        },
+        "qty": 2,
+        "price": 40.1
+      }
+    },
+    "totalQty": 2,
+    "totalPrice": 40.1
+  },
+  "address": {
+    "home": "dai hoc ha noi",
+    "city": "ha noi",
+    "country": "Vietnam",
+    "zip": "1000"
+  },
+  "payment": {
+    "ccname": "User Test 12",
+    "ccnumber": "1221",
+    "ccexpiration": "121212",
+    "cccvv": "121212"
+  },
+  "dateOrder": "Fri Dec 25 2020 16:40:10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe823b4c3ef2b37f891646d"
+  },
+  "user": {
+    "$oid": "5fe82368c3ef2b37f891646c"
+  },
+  "name": "Hoang Thanh Nga",
+  "phone": "0988420207",
+  "cart": {
+    "items": {
+      "5fbf74c93d8599213f1d3084": {
+        "item": {
+          "tag": [
+            "NewArrivals"
+          ],
+          "_id": "5fbf74c93d8599213f1d3084",
+          "title": "Vitamin Booster Vital A Elixirx",
+          "img": "fullsizeoutput_68f_1000x.jpg",
+          "brand": "mukti",
+          "price": 110.05,
+          "salePrice": 82.35,
+          "qty": 20,
+          "detail": {
+            "main_detail": {
+              "title": "Ingredient Highlights",
+              "description": "Features two forms of Hyaluronic Acid plus a blend of powerful natural fruit extracts, antioxidants and a peptide leaving skin with a smooth, refreshed appearance.                 The ultra-light texture absorbs instantly without leaving skin feeling greasy.",
+              "feature": [
+                "farm-made Calendula extract + Organic Sunflower Seed Oil, Camellia Oleifera (Camellia Seed) Oil, Raspberry (Rubus idaeus) Oil",
+                "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,",
+                "Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower",
+                "Nettle Leaf, and Artemisia Flower ",
+                "Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower"
+              ]
+            },
+            "sub_detail": {
+              "title": "Ingredient Highlights",
+              "feature": "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,,Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower,Nettle Leaf, and Artemisia Flower ,Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower,Vitis Vinifera (Grape) Seed Oil"
+            },
+            "sub_detail_2": "Luna is personal to me - it was my first plant oil creation. Luna is deeply intoxicating with the additional blend of the sweet, floral aroma of Clary Sage + the rich, earthy and woody aroma of Sandalwood. This new blend is similar to the experience you have when you walk through my gardens at our farm. If you’ve never tried a cleansing oil, I know you and your skin will love Luna and your experience will be one you come back to – every day. "
+          },
+          "type": "serum",
+          "createdAt": "2020-12-27T05:58:48.132Z"
+        },
+        "qty": 1,
+        "price": 82.35
+      },
+      "5fbf7c933d8599213f1d3086": {
+        "item": {
+          "tag": [
+            "NewArrivals",
+            "BestSellers"
+          ],
+          "_id": "5fbf7c933d8599213f1d3086",
+          "title": "Rose Blossom Hydrating Mist",
+          "img": "product-large-image-7944eb7a637dad8aa51a5a6131de7c46.JPG",
+          "brand": "mukti",
+          "price": 54.95,
+          "salePrice": 40.05,
+          "qty": 7,
+          "detail": {
+            "main_detail": {
+              "title": "Ingredient Highlights",
+              "description": "Hand picked Bulgarian rose petals are combined with native Australian extracts of Kakadu Plum.",
+              "feature": [
+                "Provides short- and long-term moisturization",
+                "Reduces the appearance of fine lines and wrinkles",
+                "Keeps skin uniformly hydrated.",
+                "Alleviates tightness and moisturizes without leaving skin feeling sticky",
+                "Can be used under moisturizer for added hydration"
+              ]
+            },
+            "sub_detail": {
+              "title": "Assists with product penetration",
+              "feature": "Aloe barbadensis (Aloe Vera) leaf juice*,Rosa centifolia (Rose) hydrosol*,,Terminalia ferndinandiana (Kakadu Plum) extract,Melaleuca alternifolia (Snowflower) extract,Anigozanthos flavidus"
+            },
+            "sub_detail_2": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident."
+          },
+          "type": "moisturiser",
+          "createdAt": "2020-12-27T06:02:56.046Z"
+        },
+        "qty": 2,
+        "price": 80.1
+      }
+    },
+    "totalQty": 3,
+    "totalPrice": 162.45
+  },
+  "address": {
+    "home": "Đại học hà nội",
+    "city": "Hà Nội",
+    "country": "Vietnam",
+    "zip": "1000"
+  },
+  "payment": {
+    "ccname": "User Test 12",
+    "ccnumber": "12121212",
+    "ccexpiration": "12121",
+    "cccvv": "121212"
+  },
+  "dateOrder": "Sun Dec 27 2020 13:03:32",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe823eec3ef2b37f891646e"
+  },
+  "user": {
+    "$oid": "5fe82368c3ef2b37f891646c"
+  },
+  "name": "Hoang Thanh Nga",
+  "phone": "0988420207",
+  "cart": {
+    "items": {
+      "5fbf74c93d8599213f1d3084": {
+        "item": {
+          "tag": [
+            "NewArrivals"
+          ],
+          "_id": "5fbf74c93d8599213f1d3084",
+          "title": "Vitamin Booster Vital A Elixirx",
+          "img": "fullsizeoutput_68f_1000x.jpg",
+          "brand": "mukti",
+          "price": 110.05,
+          "salePrice": 82.35,
+          "qty": 20,
+          "detail": {
+            "main_detail": {
+              "title": "Ingredient Highlights",
+              "description": "Features two forms of Hyaluronic Acid plus a blend of powerful natural fruit extracts, antioxidants and a peptide leaving skin with a smooth, refreshed appearance.                 The ultra-light texture absorbs instantly without leaving skin feeling greasy.",
+              "feature": [
+                "farm-made Calendula extract + Organic Sunflower Seed Oil, Camellia Oleifera (Camellia Seed) Oil, Raspberry (Rubus idaeus) Oil",
+                "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,",
+                "Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower",
+                "Nettle Leaf, and Artemisia Flower ",
+                "Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower"
+              ]
+            },
+            "sub_detail": {
+              "title": "Ingredient Highlights",
+              "feature": "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,,Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower,Nettle Leaf, and Artemisia Flower ,Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower,Vitis Vinifera (Grape) Seed Oil"
+            },
+            "sub_detail_2": "Luna is personal to me - it was my first plant oil creation. Luna is deeply intoxicating with the additional blend of the sweet, floral aroma of Clary Sage + the rich, earthy and woody aroma of Sandalwood. This new blend is similar to the experience you have when you walk through my gardens at our farm. If you’ve never tried a cleansing oil, I know you and your skin will love Luna and your experience will be one you come back to – every day. "
+          },
+          "type": "serum",
+          "createdAt": "2020-12-27T06:04:04.905Z"
+        },
+        "qty": 1,
+        "price": 82.35
+      }
+    },
+    "totalQty": 1,
+    "totalPrice": 82.35
+  },
+  "address": {
+    "home": "Đại học hà nội",
+    "city": "Hà Nội",
+    "country": "Vietnam",
+    "zip": "1000"
+  },
+  "payment": {
+    "ccname": "Hoang Thanh Nga",
+    "ccnumber": "1122121",
+    "ccexpiration": "1212",
+    "cccvv": "121"
+  },
+  "dateOrder": "Sun Dec 27 2020 13:04:30",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6049eeadef83d53cac335d32"
+  },
+  "user": {
+    "$oid": "6049ee76ef83d53cac335d31"
+  },
+  "name": "Hoang Thanh Nga",
+  "phone": "012345",
+  "cart": {
+    "items": {
+      "5fbf7c933d8599213f1d3086": {
+        "item": {
+          "tag": [
+            "NewArrivals",
+            "BestSellers"
+          ],
+          "_id": "5fbf7c933d8599213f1d3086",
+          "title": "Rose Blossom Hydrating Mist",
+          "img": "product-large-image-7944eb7a637dad8aa51a5a6131de7c46.JPG",
+          "brand": "mukti",
+          "price": 54.95,
+          "salePrice": 40.05,
+          "qty": 7,
+          "detail": {
+            "main_detail": {
+              "title": "Ingredient Highlights",
+              "description": "Hand picked Bulgarian rose petals are combined with native Australian extracts of Kakadu Plum.",
+              "feature": [
+                "Provides short- and long-term moisturization",
+                "Reduces the appearance of fine lines and wrinkles",
+                "Keeps skin uniformly hydrated.",
+                "Alleviates tightness and moisturizes without leaving skin feeling sticky",
+                "Can be used under moisturizer for added hydration"
+              ]
+            },
+            "sub_detail": {
+              "title": "Assists with product penetration",
+              "feature": "Aloe barbadensis (Aloe Vera) leaf juice*,Rosa centifolia (Rose) hydrosol*,,Terminalia ferndinandiana (Kakadu Plum) extract,Melaleuca alternifolia (Snowflower) extract,Anigozanthos flavidus"
+            },
+            "sub_detail_2": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident."
+          },
+          "type": "moisturiser",
+          "createdAt": "2021-03-11T10:17:26.718Z"
+        },
+        "qty": 1,
+        "price": 40.05
+      }
+    },
+    "totalQty": 1,
+    "totalPrice": 40.05
+  },
+  "address": {
+    "home": "dai hoc ha noi",
+    "city": "hanu",
+    "country": "Vietnam",
+    "zip": "1000"
+  },
+  "payment": {
+    "ccname": "Hoang Thanh Nga",
+    "ccnumber": "12345678",
+    "ccexpiration": "1234",
+    "cccvv": "1234"
+  },
+  "dateOrder": "Thu Mar 11 2021 17:19:25",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605626d25818ae2e1896db0b"
+  },
+  "user": {
+    "$oid": "6049ee76ef83d53cac335d31"
+  },
+  "name": "Hoang nga",
+  "phone": "123456789",
+  "cart": {
+    "items": {
+      "5fbf74c93d8599213f1d3084": {
+        "item": {
+          "tag": [
+            "NewArrivals"
+          ],
+          "_id": "5fbf74c93d8599213f1d3084",
+          "title": "Vitamin Booster Vital A Elixirx",
+          "img": "fullsizeoutput_68f_1000x.jpg",
+          "brand": "mukti",
+          "price": 110.05,
+          "salePrice": 82.35,
+          "qty": 20,
+          "detail": {
+            "main_detail": {
+              "title": "Ingredient Highlights",
+              "description": "Features two forms of Hyaluronic Acid plus a blend of powerful natural fruit extracts, antioxidants and a peptide leaving skin with a smooth, refreshed appearance.                 The ultra-light texture absorbs instantly without leaving skin feeling greasy.",
+              "feature": [
+                "farm-made Calendula extract + Organic Sunflower Seed Oil, Camellia Oleifera (Camellia Seed) Oil, Raspberry (Rubus idaeus) Oil",
+                "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,",
+                "Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower",
+                "Nettle Leaf, and Artemisia Flower ",
+                "Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower"
+              ]
+            },
+            "sub_detail": {
+              "title": "Ingredient Highlights",
+              "feature": "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,,Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower,Nettle Leaf, and Artemisia Flower ,Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower,Vitis Vinifera (Grape) Seed Oil"
+            },
+            "sub_detail_2": "Luna is personal to me - it was my first plant oil creation. Luna is deeply intoxicating with the additional blend of the sweet, floral aroma of Clary Sage + the rich, earthy and woody aroma of Sandalwood. This new blend is similar to the experience you have when you walk through my gardens at our farm. If you’ve never tried a cleansing oil, I know you and your skin will love Luna and your experience will be one you come back to – every day. "
+          },
+          "type": "serum",
+          "createdAt": "2021-03-20T16:44:48.111Z"
+        },
+        "qty": 2,
+        "price": 164.7
+      },
+      "5fe5cf41caf71f17a41c1f4e": {
+        "item": {
+          "tag": [
+            "BestSellers"
+          ],
+          "_id": "5fe5cf41caf71f17a41c1f4e",
+          "title": "Firming Body Emulsion",
+          "img": "PHL_FRG_AG_EML480ml_S7.jpg",
+          "brand": "philosophy",
+          "price": 42,
+          "salePrice": null,
+          "qty": 5,
+          "detail": {
+            "main_detail": {
+              "title": "INGREDIENTS",
+              "description": "this firming body emulsion is an award-winning body moisturizer for dry, aged or wrinkled skin.",
+              "feature": [
+                "water (aqua)",
+                " fragrance (parfum)",
+                " macadamia ternifolia seed oil",
+                " isocetyl stearoyl stearate",
+                " glycerin",
+                " olea europaea (olive) fruit oil",
+                " dimethicone",
+                " glyceryl stearate",
+                " butyrospermum parkii (shea butter)",
+                " cetearyl alcohol",
+                " cetyl alcohol",
+                " polysorbate 60",
+                " peg-100 stearate",
+                " stearic acid",
+                " phytosterol/octyldodecyl lauroyl glutamate",
+                " tocopheryl acetate",
+                " potassium ascorbyl tocopheryl phosphate",
+                " xanthan gum",
+                " carbomer"
+              ]
+            },
+            "sub_detail": {
+              "title": "How to use",
+              "description": "apply a generous amount to skin with fingertips, and massage in gently with a soothing, circular motion.",
+              "feature": "infused with the amazingly clean, beautifully feminine scent of philosophy's bestselling amazing grace fragrance, this firming body emulsion is an award-winning moisturizer for dry skin. includes an antioxidant and firming ingredient to help skin feel more toned."
+            },
+            "sub_detail_2": "infused with the amazingly clean, beautifully feminine scent of philosophy's bestselling amazing grace fragrance, this firming body emulsion is an award-winning moisturizer for dry skin. includes an antioxidant and firming ingredient to help skin feel more toned."
+          },
+          "type": "lotion",
+          "createdAt": "2020-12-25T11:38:41.978Z",
+          "__v": 0
+        },
+        "qty": 1,
+        "price": 42
+      }
+    },
+    "totalQty": 3,
+    "totalPrice": 206.7
+  },
+  "address": {
+    "home": "dai hoc ha noi",
+    "city": "hanu",
+    "country": "Vietnam",
+    "zip": "100000"
+  },
+  "payment": {
+    "ccname": "sc",
+    "ccnumber": "123456",
+    "ccexpiration": "1234",
+    "cccvv": "1234"
+  },
+  "dateOrder": "Sat Mar 20 2021 23:46:10",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606431779d52a71f4c6476b4"
+  },
+  "user": {
+    "$oid": "5fe220082630b4288832216c"
+  },
+  "name": "Hoang nga",
+  "phone": "123456789",
+  "cart": {
+    "items": {
+      "5fc01fab2003f72d989342ac": {
+        "item": {
+          "tag": [
+            "BestSellers"
+          ],
+          "_id": "5fc01fab2003f72d989342ac",
+          "title": "Hydrating Cleansing Lotion",
+          "img": "product-large-image-5a82f1d91fd2915340ec7c231859b4e0.JPG",
+          "brand": "mukti",
+          "price": 80.05,
+          "salePrice": 62.05,
+          "qty": 10,
+          "detail": {
+            "main_detail": {
+              "title": "INGREDIENTS",
+              "description": "Aloe barbadensis (Aloe Vera) leaf juice*, Macadamia ternifolia (Macadamia) nut oil*, Cetearyl glucoside (Vegetarian), Cocos nucifera (Coconut) oil*, Butyrospermum parkii (Shea) nut butter*",
+              "feature": [
+                "Aloe barbadensis (Aloe Vera) leaf juice*",
+                " Macadamia ternifolia (Macadamia) nut oil*",
+                " Cetearyl glucoside (Vegetarian)",
+                " Cocos nucifera (Coconut) oil*",
+                " Butyrospermum parkii (Shea) nut butter*"
+              ]
+            },
+            "sub_detail": {
+              "title": "Ideal for normal and dry skin. Use morning and evening.",
+              "description": "Aloe barbadensis (Aloe Vera) leaf juice*, Macadamia ternifolia (Macadamia) nut oil*, Cetearyl glucoside (Vegetarian), Cocos nucifera (Coconut) oil*, Butyrospermum parkii (Shea) nut butter*"
+            },
+            "sub_detail_2": "Aloe barbadensis (Aloe Vera) leaf juice*, Macadamia ternifolia (Macadamia) nut oil*, Cetearyl glucoside (Vegetarian), Cocos nucifera (Coconut) oil*, Butyrospermum parkii (Shea) nut butter*"
+          },
+          "type": "lotion",
+          "createdAt": "2020-11-26T21:35:39.579Z",
+          "__v": 0
+        },
+        "qty": 1,
+        "price": 62.05
+      },
+      "60562bac5818ae2e1896db0e": {
+        "item": {
+          "tag": [
+            ""
+          ],
+          "_id": "60562bac5818ae2e1896db0e",
+          "title": "\"Buffet\"",
+          "img": "rdn-buffet-30ml.png",
+          "brand": "bobbi brown",
+          "price": 20.05,
+          "salePrice": 18.9,
+          "qty": 10,
+          "detail": {
+            "main_detail": {
+              "title": "WHAT IT IS",
+              "description": "Multi-technology peptide serum",
+              "feature": [
+                "Citric Acid",
+                " Hydroxypropyl Cyclodextrin",
+                " Sodium Chloride",
+                " Sodium Hydroxide",
+                " Butylene Glycol",
+                " Pentylene Glycol",
+                " Acacia Senegal Gum",
+                " Xanthan Gum"
+              ]
+            },
+            "sub_detail": {
+              "title": "Technology",
+              "description": "This formula combines a comprehensive array of studied technologies to target multiple signs of aging at once. The technologies are Matrixyl 3,000 peptide complex (with palmitoyl-pentapeptide 35), Matrixyl Synthe'6 peptide complex (with palmitoyl tripeptide-38), Syn-Ake peptide complex (with dipeptide diaminobutyroyl benzylamide diacetate)",
+              "feature": "We are deeply grateful to our devoted customers for loving us and our products so much. Our lab has and continues to devote countless hours to share the newest innovations with our broader world. The Ordinary now offers a wide range of products under the Vitamin C, Peptide and Direct Acid categories, and to help our ever-growing, loving family of users build functional and effective routines incorporating these products we have developed an introductory guideline into the brand."
+            },
+            "sub_detail_2": "Apply to the entire face in the AM and PM after cleaning. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children."
+          },
+          "type": "serum",
+          "createdAt": "2021-03-20T17:06:52.520Z",
+          "__v": 0
+        },
+        "qty": 1,
+        "price": 18.9
+      }
+    },
+    "totalQty": 2,
+    "totalPrice": 80.94999999999999
+  },
+  "address": {
+    "home": "dai hoc ha noi",
+    "city": "hanu",
+    "country": "Vietnam",
+    "zip": "100000"
+  },
+  "payment": {
+    "ccname": "Hoang Thanh Nga",
+    "ccnumber": "123456",
+    "ccexpiration": "123456",
+    "cccvv": "123"
+  },
+  "dateOrder": "Wed Mar 31 2021 15:23:19",
+  "__v": 0
+}]

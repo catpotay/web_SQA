@@ -1,0 +1,117 @@
+{{> header}}
+
+<script>
+    function currentInputforImage() {
+        const elem = document.querySelector('.opac-zero')
+        elem.setAttribute('name', 'img')
+        document.querySelector('.workaround').remove()
+        var img = elem.value
+        if (!img) {
+            return
+        }
+        var filename = img.replace(/^.*[\\\/]/, '');
+        document.querySelector('.preview-pic').src = '/img/' + filename;
+    }
+</script>
+<div class="container create-form" style="margin: 50px auto;">
+    <h3>Update a product</h3>
+    <form method="POST" action="/admin/{{product._id}}?_method=PUT">
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label for="title">Product name</label>
+                <input type="text" class="form-control" value="{{product.title}}" name="title"
+                    placeholder="Product name">
+            </div>
+            <div class="form-group col-md-6">
+                <label for="brand">Brand name</label>
+                <input type="text" class="form-control" value="{{product.brand}}" name="brand" placeholder="Brand name">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="type">Type of product</label>
+            <input type="text" class="form-control" value="{{product.type}}" name="type"
+                placeholder="Serum, Cleansing, Moisturisers , .. ">
+        </div>
+        <div class="form-group">
+            <label for="qty">Quantity of product</label>
+            <input type="text" class="form-control" value="{{product.qty}}" name="qty" placeholder="number: 10 ....">
+        </div>
+        <div class="form-group">
+            <label for="price">Price of product</label>
+            <input type="text" class="form-control" value="{{product.price}}" name="price"
+                placeholder="number: 10 ....">
+        </div>
+        <div class="form-group">
+            <label for="salePrice">Sale Price of product</label>
+            <input type="text" class="form-control" value="{{product.salePrice}}" name="salePrice"
+                placeholder="number: 10 ....">
+        </div>
+        <div class="form-group aaa">
+            <label for="img">Preview Picture</label>
+            <img class="preview-pic" src="/img/{{product.img}}">
+            <input type="file" class="form-control-file opac-zero" id="img"
+                onchange="currentInputforImage()">
+        </div>
+        <div class="form-group workaround opac-zero" style="position: fixed;">
+            <label for="img2">Preview Picture</label>
+            <input class="form-control-file opac-zero" id="img2" name="img"
+                value="{{product.img}}">
+        </div>
+        <div class="form-group">
+            <label for="tag">Tag</label>
+            <input type="text" class="form-control" value="{{product.tag}}" name="tag" placeholder="Tag name ....">
+        </div>
+        <div class="form-group">
+            <label for="main_detail_title" style="font-weight: bold;">WHAT IT IS</label>
+        </div>
+        <div class="form-group">
+            <label for="main_detail_description">Main description</label>
+            <textarea class="form-control" rows="3"
+                name="main_detail_description">{{product.detail.main_detail.description}}</textarea>
+        </div>
+        <div class="form-group">
+            <label for="sub_description">Short description</label>
+            <textarea class="form-control" rows="3" name="sub_description">{{product.detail.main_detail.sub_description}}</textarea>
+        </div>
+        <div class="form-group">
+            <label for="main_detail_feature">Feature</label>
+            {{#each feature}}
+            <input class="form-control" value="{{this}}" rows="3" name="main_detail_feature">
+            {{/each}}
+        </div>
+        <div class="form-group">
+            <label for="sub_detail_title" style="font-weight: bold;">INGREDIENTS</label>
+        </div>
+        <div class="form-group">
+            <label for="sub_detail_feature">List of Ingredient</label>
+            <textarea class="form-control" rows="3" name="sub_detail_feature">value="{{product.detail.sub_detail.feature}}"</textarea>
+        </div>
+        <div class="form-group">
+            <label for="sub_detail_2">More detail information</label>
+            <textarea class="form-control" rows="3" name="sub_detail_2">{{product.detail.sub_detail_2}}</textarea>
+        </div>
+        <button type="submit" class="btn btn-dark">Update</button>
+    </form>
+
+</div>
+
+<style>
+    .preview-pic {
+        height: 100px;
+        width: 100px;
+        position: absolute;
+        z-index: -1;
+    }
+
+    .aaa:hover {
+        transition: .2s;
+        filter: brightness(.5);
+    }
+
+    .opac-zero {
+        opacity: 0;
+        padding-bottom: 40px;
+
+    }
+</style>
+{{> footer}}

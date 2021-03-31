@@ -1,0 +1,2723 @@
+[{
+  "_id": {
+    "$oid": "5fbf74c93d8599213f1d3084"
+  },
+  "title": "Vitamin Booster Vital A Elixirx",
+  "img": "fullsizeoutput_68f_1000x.jpg",
+  "brand": "mukti",
+  "price": 110.05,
+  "salePrice": 82.35,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "description": "Features two forms of Hyaluronic Acid plus a blend of powerful natural fruit extracts, antioxidants and a peptide leaving skin with a smooth, refreshed appearance.                 The ultra-light texture absorbs instantly without leaving skin feeling greasy.",
+      "feature": [
+        "farm-made Calendula extract + Organic Sunflower Seed Oil, Camellia Oleifera (Camellia Seed) Oil, Raspberry (Rubus idaeus) Oil",
+        "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,",
+        "Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower",
+        "Nettle Leaf, and Artemisia Flower ",
+        "Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower"
+      ]
+    },
+    "sub_detail": {
+      "feature": "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,,Farm-Grown Beauty Blend - a sunflower seed oil-based maceration of Lavender Flower,Nettle Leaf, and Artemisia Flower ,Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower,Vitis Vinifera (Grape) Seed Oil"
+    },
+    "sub_detail_2": "Luna is personal to me - it was my first plant oil creation. Luna is deeply intoxicating with the additional blend of the sweet, floral aroma of Clary Sage + the rich, earthy and woody aroma of Sandalwood. This new blend is similar to the experience you have when you walk through my gardens at our farm. If you’ve never tried a cleansing oil, I know you and your skin will love Luna and your experience will be one you come back to – every day. "
+  },
+  "tag": [
+    "NewArrivals"
+  ],
+  "type": "serum"
+},{
+  "_id": {
+    "$oid": "5fbf7c933d8599213f1d3086"
+  },
+  "title": "Rose Blossom Hydrating Mist",
+  "img": "product-large-image-7944eb7a637dad8aa51a5a6131de7c46.JPG",
+  "brand": "mukti",
+  "price": 54.95,
+  "salePrice": 40.05,
+  "qty": 7,
+  "detail": {
+    "main_detail": {
+      "description": "Hand picked Bulgarian rose petals are combined with native Australian extracts of Kakadu Plum.",
+      "feature": [
+        "Provides short- and long-term moisturization",
+        "Reduces the appearance of fine lines and wrinkles",
+        "Keeps skin uniformly hydrated.",
+        "Alleviates tightness and moisturizes without leaving skin feeling sticky",
+        "Can be used under moisturizer for added hydration"
+      ]
+    },
+    "sub_detail": {
+      "feature": "Aloe barbadensis (Aloe Vera) leaf juice*,Rosa centifolia (Rose) hydrosol*,,Terminalia ferndinandiana (Kakadu Plum) extract,Melaleuca alternifolia (Snowflower) extract,Anigozanthos flavidus"
+    },
+    "sub_detail_2": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident."
+  },
+  "tag": [
+    "NewArrivals",
+    "BestSellers"
+  ],
+  "type": "moisturiser"
+},{
+  "_id": {
+    "$oid": "5fbf80a18f23c615e0e37417"
+  },
+  "title": "PLANT CLEANSING OIL",
+  "img": "exaggerated-scale_0020s_0000_HS-pump-front_2000x.jpg",
+  "brand": "luna",
+  "price": 70.05,
+  "salePrice": 51.15,
+  "qty": 8,
+  "detail": {
+    "main_detail": {
+      "title": "Ingredient Highlights",
+      "description": "Features two forms of Hyaluronic Acid plus a blend of powerful natural fruit extracts, antioxidants and a                peptide leaving skin with a smooth, refreshed appearance.                 The ultra-light texture absorbs instantly without leaving skin feeling greasy.",
+      "feature": [
+        "Borage Flower, Rosemary Leaf, Calendula Flower, Dandelion Leaf,",
+        "Nettle Leaf, and Artemisia Flower ",
+        "Gomphrena globosa Flower, Moringa Flower, German Chamomile Flower",
+        "farm-made Calendula extract + Organic Sunflower Seed Oil, Camellia Oleifera (Camellia Seed) Oil, Raspberry (Rubus idaeus) Oil"
+      ]
+    },
+    "sub_detail": {
+      "title": "Assists with product penetration",
+      "feature": "Sodium Hyaluronate (Hyaluronic Acid). Binds water to the skin and                     provides short- and long-term moisturization.,Watermelon, Apple & Lentil Fruit Extracts. Blend of natural fruit                     extracts keeps skin uniformly hydrated.,Palmitoyl Tripeptide-5. Reduces the appearance of fine lines and wrinkles.,Vitamin E & Pomegranate Extract. Provide strong antioxidant benefits.,Honey and Sea Kelp Extract. Hydrate and condition the skin."
+    },
+    "sub_detail_2": "Anim pariatur cliche reprehenderit. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident."
+  },
+  "tag": [
+    "BestSellers"
+  ],
+  "type": "cleansing"
+},{
+  "_id": {
+    "$oid": "5fbf81d08f23c615e0e37418"
+  },
+  "title": "Vitamin Booster ",
+  "img": "product-large-image-2dd5a30ae5925ce8f6adc3eb0119511e.JPG",
+  "brand": "luna",
+  "price": 80.05,
+  "salePrice": 68.05,
+  "qty": 8,
+  "detail": {
+    "main_detail": {
+      "title": "Ingredient Highlights",
+      "description": "Features two forms of Hyaluronic Acid plus a blend of powerful natural fruit extracts, antioxidants and a                 peptide leaving skin with a smooth, refreshed appearance.                 The ultra-light texture absorbs instantly without leaving skin feeling greasy.",
+      "feature": [
+        "amanu (Calophyllum inophyllum), Sea Buckthorn (Hippophae rhamnoides)",
+        "Camellia Seed (Camellia oleifera), Sunflower Seed Oil + Calendula Flower (Calendula officinalis) infusion, Rosehip Seed Oil (Rosa canina) Avocado Seed (Persea gratissima)",
+        "Meadowfoam Oil (Limnanthes alba), Grapeseed Oil (Vitis vinifera), Sweet Orange EO (Citrus sinensis)",
+        "Ylang Ylang (Cananga Odorata), Bergamont (Citrus bergamia), Lavender (Lavandula angustifolia)",
+        "Frankincense (Boswellia carterii), Jasmine (Jasminum grandiflorum), Clary Sage (Salvia sclarea L.), Sandalwood (Santalum Spicatum) Lemon (Citrus limon (L.) Burm.F."
+      ]
+    },
+    "sub_detail": {
+      "title": "Hydrating Serum",
+      "feature": "Sodium Hyaluronate (Hyaluronic Acid). Binds water to the skin and                     provides short- and long-term moisturization.,Watermelon, Apple & Lentil Fruit Extracts. Blend of natural fruit                     extracts keeps skin uniformly hydrated.,Palmitoyl Tripeptide-5. Reduces the appearance of fine lines and wrinkles.,Vitamin E & Pomegranate Extract. Provide strong antioxidant benefits.,Honey and Sea Kelp Extract. Hydrate and condition the skin."
+    },
+    "sub_detail_2": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident."
+  },
+  "tag": [
+    "NewArrivals"
+  ],
+  "type": "serum"
+},{
+  "_id": {
+    "$oid": "5fc01fab2003f72d989342ac"
+  },
+  "tag": [
+    "BestSellers"
+  ],
+  "title": "Hydrating Cleansing Lotion",
+  "img": "product-large-image-5a82f1d91fd2915340ec7c231859b4e0.JPG",
+  "brand": "mukti",
+  "price": 80.05,
+  "salePrice": 62.05,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "Aloe barbadensis (Aloe Vera) leaf juice*, Macadamia ternifolia (Macadamia) nut oil*, Cetearyl glucoside (Vegetarian), Cocos nucifera (Coconut) oil*, Butyrospermum parkii (Shea) nut butter*",
+      "feature": [
+        "Aloe barbadensis (Aloe Vera) leaf juice*",
+        " Macadamia ternifolia (Macadamia) nut oil*",
+        " Cetearyl glucoside (Vegetarian)",
+        " Cocos nucifera (Coconut) oil*",
+        " Butyrospermum parkii (Shea) nut butter*"
+      ]
+    },
+    "sub_detail": {
+      "title": "Ideal for normal and dry skin. Use morning and evening.",
+      "description": "Aloe barbadensis (Aloe Vera) leaf juice*, Macadamia ternifolia (Macadamia) nut oil*, Cetearyl glucoside (Vegetarian), Cocos nucifera (Coconut) oil*, Butyrospermum parkii (Shea) nut butter*"
+    },
+    "sub_detail_2": "Aloe barbadensis (Aloe Vera) leaf juice*, Macadamia ternifolia (Macadamia) nut oil*, Cetearyl glucoside (Vegetarian), Cocos nucifera (Coconut) oil*, Butyrospermum parkii (Shea) nut butter*"
+  },
+  "type": "lotion",
+  "createdAt": {
+    "$date": "2020-11-26T21:35:39.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe4909830d2fe3b5cf4e0a1"
+  },
+  "tag": [
+    "NewArrivals"
+  ],
+  "title": "EXTRA REPAIR LOTION CREAM",
+  "img": "bb_sku_E9TF01_1080x1080_0.jpg",
+  "brand": "bobbi brown",
+  "price": 104.04,
+  "salePrice": null,
+  "qty": 5,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "All the benefits of our cult-favorite Extra Repair Moisturizing Balm—now in a lightweight yet luxurious cream ",
+      "feature": [
+        "Ingredients: Water\\Aqua\\Eau",
+        "Butyrospermum Parkii (Shea Butter) ",
+        "Caprylic/Capric/Myristic/Stearic Triglyceride "
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "This skin-nourishing formula utilizes a unique Triple Emulsion Technology to give the cream its lightweight texture while still allowing it to be incredibly moisturizing",
+      "feature": ""
+    },
+    "sub_detail_2": "Normal to Extra Dry skin types and perfect for those in humid climates (or anyone who prefers a lighter feel)."
+  },
+  "type": "lotion",
+  "createdAt": {
+    "$date": "2020-12-24T12:59:04.695Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe4979aeea5c434e0625878"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Crushed Oil-Infuses Gloss Mini Trio",
+  "img": "bb_sku_ENJ501_1080x1080_0.jpg",
+  "brand": "bobbi brown",
+  "price": 20.05,
+  "salePrice": null,
+  "qty": 7,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A go-anywhere set of our NEW super-smooth, ultra-hydrating, non-sticky lip gloss in three ultra-flattering shades. ",
+      "feature": [
+        "Hydrogenated Polyisobutene",
+        " Polybutene",
+        " Pentaerythrityl Tetraisostearate",
+        " Ethylene/Propylene/Styrene Copolymer",
+        " C12-15 Alkyl Benzoate",
+        " Olea Europaea (Olive) Fruit Oil",
+        " Prunus Armeniaca (Apricot) Kernel Oil",
+        " Tocopheryl Acetate",
+        " Aleurites Moluccana (Kukui) Seed Oil"
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "Swipe across lips and go or layer over Crushed Lip Color for a bolder look.",
+      "feature": "Swipe across lips and go or layer over Crushed Lip Color for a bolder look."
+    },
+    "sub_detail_2": "Swipe across lips and go or layer over Crushed Lip Color for a bolder look."
+  },
+  "type": "lip",
+  "createdAt": {
+    "$date": "2020-12-24T13:28:58.048Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5beeb71cf9b1fccbcd040"
+  },
+  "tag": [
+    "NewArrivals"
+  ],
+  "title": "Vitamin Enriched Face Base",
+  "img": "bb_sku_E1LM01_1080x1080_0.jpg",
+  "brand": "bobbi brown",
+  "price": 62.05,
+  "salePrice": 60.05,
+  "qty": 5,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "This formula combines the moisturizing power of Shea Butter with Vitamins B, C and E. Grapefruit and Geranium fragrances leave a light, uplifting scent on skin. With daily use, skin looks and feels its best.",
+      "feature": [
+        "Ingredients: Water\\Aqua\\Eau ",
+        " Cyclopentasiloxane ",
+        " Bis-Diglyceryl Polyacyladipate-2 ",
+        " Butylene Glycol ",
+        " Ppg-2 Myristyl Ether Propionate ",
+        " Cetyl Alcohol ",
+        " Peg-40 Stearate ",
+        " Butyrospermum Parkii (Shea Butter) ",
+        " Squalane ",
+        " Glyceryl Stearate "
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients.",
+      "feature": "Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients."
+    },
+    "sub_detail_2": "Please be aware that ingredient lists may change or vary from time to time. Please refer to the ingredient list on the product package you receive for the most up to date list of ingredients."
+  },
+  "type": "face",
+  "createdAt": {
+    "$date": "2020-12-25T10:28:59.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5bfa671cf9b1fccbcd041"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Corrector",
+  "img": "bb_sku_E6XW05_1080x1080_0.jpg",
+  "brand": "bobbi brown",
+  "price": 29.83,
+  "salePrice": null,
+  "qty": 5,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "Designed to brighten undereyes and cover even the most stubborn dark circles, this creamy, blendable formula instantly neutralizes discoloration and layers perfectly under concealer. Available in 16 color-correcting pink- and peach-based shades formulated for all types of undereye discoloration. ",
+      "feature": [
+        "Petrolatum ",
+        " Octyldodecyl Stearoyl Stearate ",
+        " Bis-Diglyceryl Polyacyladipate-2 ",
+        " Methyl Methacrylate Crosspolymer ",
+        " Tribehenin ",
+        " Kaolin ",
+        " Silica ",
+        " Polyethylene ",
+        " Tocopheryl Acetate ",
+        " Lecithin ",
+        " Polysorbate 20 ",
+        " Tocopherol ",
+        " Propylene Glycol Stearate ",
+        " Tetrahexyldecyl Ascorbate "
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "To find your shade, take a look at the discoloration under the eye. If it’s bluish-purple, choose a bisque shade. If it’s greenish-brown, choose a peach shade. If it’s a mix of both, choose a peach bisque shade.",
+      "feature": "Using the Concealer Brush (sold separately), apply Corrector to areas of discoloration, getting as close to the lashline and innermost corner as possible. Gently blend with your finger."
+    },
+    "sub_detail_2": "Using the Concealer Brush (sold separately), apply Corrector to areas of discoloration, getting as close to the lashline and innermost corner as possible. Gently blend with your finger."
+  },
+  "type": "face",
+  "createdAt": {
+    "$date": "2020-12-25T10:32:06.368Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5c0a571cf9b1fccbcd042"
+  },
+  "tag": [
+    "NewArrivals"
+  ],
+  "title": "Somkey Eye Mascara ",
+  "img": "bb_sku_E9TN01_1080x1080_0.jpg",
+  "brand": "bobbi brown",
+  "price": 32.08,
+  "salePrice": 29.05,
+  "qty": 5,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "The perfect complement to a smokey eye look, this kohl-pigmented mascara delivers high drama by creating extremely black, stretched-out lashes in an instant. Plus, the long-wearing formula holds its own against flaking, smudging, sweat and humidity.",
+      "feature": [
+        "Water\\Aqua\\Eau ",
+        " Beeswax\\Cera Alba\\Cire D'Abeille ",
+        " Copernicia Cerifera (Carnauba) Wax\\Cera Carnauba\\Cire De Carnauba ",
+        " Cichorium Intybus (Chicory) Root Extract ",
+        " Helianthus Annuus (Sunflower) Seed Wax ",
+        " Stearic Acid ",
+        " Palmitic Acid ",
+        " Propanediol ",
+        " Triethanolamine ",
+        " Nylon 6/12 ",
+        " Galactoarabinan ",
+        " Caprylyl Glycol ",
+        " Aminomethyl Propanediol ",
+        " Caesalpinia Spinosa Gum"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Builds volume lash by lash as opposed to traditional volumizing formulas that create the appearance of volume by clumping lashes together. Plus, a thicker brush base evenly combs through eyelashes from roots to ends, while a tapered tip grabs those small, hard-to-reach lashes.",
+      "feature": "Brush from base to tips of lashes and let dry."
+    },
+    "sub_detail_2": "Brush from base to tips of lashes and let dry."
+  },
+  "type": "eyes",
+  "createdAt": {
+    "$date": "2020-12-25T10:36:21.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5c1ef71cf9b1fccbcd045"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Perfectly Defined Brown Pencil",
+  "img": "bb_sku_ECNF01_1080x1080_0.jpg",
+  "brand": "bobbi brown",
+  "price": 20.05,
+  "salePrice": null,
+  "qty": 5,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "A long-wearing brow pencil with a slanted, chiseled tip that lets you softly fill in brows with the flat edge or boldly define them with the pointed tip. Plus, the attached spoolie diffuses color and combs hairs into place for a naturally polished look. Waterproof and sweat resistant.",
+      "feature": [
+        "Behenic Acid ",
+        " Rhus Succedanea (Japan) Fruit Wax ",
+        " Triethylhexanoin ",
+        " Sucrose Tetrastearate Triacetate ",
+        " Dipentaerythrity"
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "Use the flat side of the pencil to fill in the head of the brow, and then with the pointed tip use short strokes to define the arch and tail. For a bolder look, use the pointed tip to define the length of the brow, and then go over the edges for added definition. Comb hairs into place using the attached spoolie.",
+      "feature": "Use the flat side of the pencil to fill in the head of the brow, and then with the pointed tip use short strokes to define the arch and tail. For a bolder look, use the pointed tip to define the length of the brow, and then go over the edges for added definition. Comb hairs into place using the attached spoolie."
+    },
+    "sub_detail_2": "Parabens, Phthalates, Sulfates, Animal Derived Ingredients, Gluten, Sulfites, Mineral Oil, Tricolsan, Formaldehyde"
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2020-12-25T10:41:51.590Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5ce4dcaf71f17a41c1f4d"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Perfumed Body Spritz",
+  "img": "00580258_pure_grace_re_a1-1.jpg",
+  "brand": "philosophy",
+  "price": 35.08,
+  "salePrice": null,
+  "qty": 7,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "a perfect fragrance base to make you feel infinitely clean. a pure scent of a veil of water lily with a subtle freshness, the simple, modern tones of leafy greens and frosted musk brings a refreshing finish.",
+      "feature": [
+        "sd alcohol 40b (alcohol denat.)",
+        " water (aqua)",
+        " fragrance (parfum)",
+        " glycerin",
+        " panthenol",
+        " camellia sinensis leaf extract",
+        " chrysanthemum parthenium (feverfew) extract",
+        " tris (tetramethylhydroxypiperidinol) citrate",
+        " sodium benzotriazolyl butylphenol sulfonate"
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "spray mist from any angle over entire body after shower or bath or anytime you want to feel surrounded by love and happiness. can be used alone or underneath any of our fragrances.",
+      "feature": "smell soap and water clean with the light scent of our pure grace body spritz."
+    },
+    "sub_detail_2": "smell soap and water clean with the light scent of our pure grace body spritz."
+  },
+  "type": "spritz",
+  "createdAt": {
+    "$date": "2020-12-25T11:34:37.018Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5cf41caf71f17a41c1f4e"
+  },
+  "tag": [
+    "BestSellers"
+  ],
+  "title": "Firming Body Emulsion",
+  "img": "PHL_FRG_AG_EML480ml_S7.jpg",
+  "brand": "philosophy",
+  "price": 42,
+  "salePrice": null,
+  "qty": 5,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "this firming body emulsion is an award-winning body moisturizer for dry, aged or wrinkled skin.",
+      "feature": [
+        "water (aqua)",
+        " fragrance (parfum)",
+        " macadamia ternifolia seed oil",
+        " isocetyl stearoyl stearate",
+        " glycerin",
+        " olea europaea (olive) fruit oil",
+        " dimethicone",
+        " glyceryl stearate",
+        " butyrospermum parkii (shea butter)",
+        " cetearyl alcohol",
+        " cetyl alcohol",
+        " polysorbate 60",
+        " peg-100 stearate",
+        " stearic acid",
+        " phytosterol/octyldodecyl lauroyl glutamate",
+        " tocopheryl acetate",
+        " potassium ascorbyl tocopheryl phosphate",
+        " xanthan gum",
+        " carbomer"
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "apply a generous amount to skin with fingertips, and massage in gently with a soothing, circular motion.",
+      "feature": "infused with the amazingly clean, beautifully feminine scent of philosophy's bestselling amazing grace fragrance, this firming body emulsion is an award-winning moisturizer for dry skin. includes an antioxidant and firming ingredient to help skin feel more toned."
+    },
+    "sub_detail_2": "infused with the amazingly clean, beautifully feminine scent of philosophy's bestselling amazing grace fragrance, this firming body emulsion is an award-winning moisturizer for dry skin. includes an antioxidant and firming ingredient to help skin feel more toned."
+  },
+  "type": "lotion",
+  "createdAt": {
+    "$date": "2020-12-25T11:38:41.978Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5d06ecaf71f17a41c1f4f"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Shampoo, Bath & Shower gel",
+  "img": "REGULARliving_grace_shower_gel_re_a1.jpg",
+  "brand": "philosophy",
+  "price": 62.05,
+  "salePrice": null,
+  "qty": 7,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "introducing pure grace nude rose, an airy rose scent inspired by the bare color of nude rose petals and the clean, fresh feel of our beloved pure grace.",
+      "feature": [
+        "aqua/water/eau",
+        " sodium laureth sulfate",
+        " lauryl betaine",
+        " parfum/fragrance",
+        " ppg-2 hydroxyethyl cocamide",
+        " disodium laureth sulfosuccinate",
+        " phenoxyethanol",
+        " peg-7 glyceryl cocoate",
+        " peg-150 pentaerythrityl tetrastearate",
+        " sodium benzoate",
+        " buteth-3",
+        " peg-6 caprylic/capric glycerides",
+        " benzyl salicylate",
+        " citric acid",
+        " sodium benzotriazolyl butylphenol sulfonate",
+        " cocamidopropyl pg-dimonium chloride phosphate"
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "apply to wet body or scalp. lather, rinse, repeat. if using as a bubble bath, drizzle a generous amount under running water and enjoy.",
+      "feature": "apply to wet body or scalp. lather, rinse, repeat. if using as a bubble bath, drizzle a generous amount under running water and enjoy."
+    },
+    "sub_detail_2": "our multi-tasking formula cleanses and conditions with a rich, foaming lather, leaving skin and hair feeling silky soft and lightly scented."
+  },
+  "type": "shampoo",
+  "createdAt": {
+    "$date": "2020-12-25T11:43:42.777Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5d1c224680b3ba4c5d39a"
+  },
+  "tag": [
+    "BestSellers"
+  ],
+  "title": "Eau De Toilette",
+  "img": "PHL_FRG_PG_EDT_60ml_S7.jpg",
+  "brand": "philosophy",
+  "price": 70.05,
+  "salePrice": 62.05,
+  "qty": 5,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "feel cleaner and more graceful than ever with our pure grace spray fragrance.",
+      "feature": [
+        "sd alcohol 40b",
+        " fragrance (parfum)",
+        " water (aqua)",
+        " sodium benzotriazolyl",
+        " butylphenol sulfonate",
+        " buteth-3",
+        " tributyl citrate"
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "spray onto a clean, dry body. avoid direct eye contact.",
+      "feature": "pure grace eau de toilette is our infinitely clean fragrance in a concentrated form. clean and universally appealing, this soap and water scent is the perfect fragrance for anyone who wants to feel as though they just stepped out of the shower."
+    },
+    "sub_detail_2": "pure grace eau de toilette is our infinitely clean fragrance in a concentrated form. clean and universally appealing, this soap and water scent is the perfect fragrance for anyone who wants to feel as though they just stepped out of the shower."
+  },
+  "type": "pure grace",
+  "createdAt": {
+    "$date": "2020-12-25T11:49:22.614Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605629cd5818ae2e1896db0c"
+  },
+  "tag": [
+    "BestSellers"
+  ],
+  "title": "Organic Cold-Pressed Moroccan Oil",
+  "img": "rdn-100pct-organic-cold-pressed-moroccan-argan-oil-30ml.png",
+  "brand": "mukti",
+  "price": 8.05,
+  "salePrice": null,
+  "qty": 7,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Daily suppOur Moroccan Argan Oil is completely unrefined and imparts a natural scent.This scent is not an indication of rancidity. Argan Oil that does not have a scent is refined and offers reduced benefits.ort formula for hair and skin",
+      "feature": [
+        "Argania Spinosa Kernel Oil",
+        " Aqua (Water)",
+        " Caprylic/Capric Triglyceride"
+      ]
+    },
+    "sub_detail": {
+      "title": "Technology",
+      "description": "Natural Moisturizing Factors (NMF) are elements that keep the outer layer of the skin protected and well-hydrated. ",
+      "feature": "NMF are made up of multiple amino acids, fatty acids, triglycerides, urea, ceramides, phospholipids, glycerin, saccharides, sodium PCA, hyaluronic acid and many other compounds that are naturally present in the skin."
+    },
+    "sub_detail_2": "This formula offers non-greasy hydration that acts as a direct topical supplement of impaired NMF components. It contains 11 amino acids, phospholipids, alpha/beta/gamma fatty acids"
+  },
+  "type": "serum",
+  "createdAt": {
+    "$date": "2021-03-20T16:58:53.015Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60562aa05818ae2e1896db0d"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Natural Moisturizing Factors + HA",
+  "img": "rdn-natural-moisturizing-factors-ha-30ml.png",
+  "brand": "mukti",
+  "price": 7,
+  "salePrice": null,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "Surface hydration formula",
+      "feature": [
+        "Cetyl Alcohol",
+        " Propanediol",
+        " Stearyl Alcohol",
+        " Glycerin",
+        " Sodium Hyaluronate",
+        " Arginine",
+        " Aspartic Acid",
+        " Glycine",
+        " Alanine",
+        " Serine",
+        " Valine",
+        " Isoleucine",
+        " Proline",
+        " Threonine",
+        " Histidine"
+      ]
+    },
+    "sub_detail": {
+      "title": "Directions",
+      "description": "Apply after serums as needed for effective surface hydration. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children",
+      "feature": "This formula offers non-greasy hydration that acts as a direct topical supplement of impaired NMF components. It contains 11 amino acids, phospholipids, alpha/beta/gamma fatty acids"
+    },
+    "sub_detail_2": ""
+  },
+  "type": "moisturiser",
+  "createdAt": {
+    "$date": "2021-03-20T17:02:24.958Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60562bac5818ae2e1896db0e"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "\"Buffet\"",
+  "img": "rdn-buffet-30ml.png",
+  "brand": "bobbi brown",
+  "price": 20.05,
+  "salePrice": 18.9,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Multi-technology peptide serum",
+      "feature": [
+        "Citric Acid",
+        " Hydroxypropyl Cyclodextrin",
+        " Sodium Chloride",
+        " Sodium Hydroxide",
+        " Butylene Glycol",
+        " Pentylene Glycol",
+        " Acacia Senegal Gum",
+        " Xanthan Gum"
+      ]
+    },
+    "sub_detail": {
+      "title": "Technology",
+      "description": "This formula combines a comprehensive array of studied technologies to target multiple signs of aging at once. The technologies are Matrixyl 3,000 peptide complex (with palmitoyl-pentapeptide 35), Matrixyl Synthe'6 peptide complex (with palmitoyl tripeptide-38), Syn-Ake peptide complex (with dipeptide diaminobutyroyl benzylamide diacetate)",
+      "feature": "We are deeply grateful to our devoted customers for loving us and our products so much. Our lab has and continues to devote countless hours to share the newest innovations with our broader world. The Ordinary now offers a wide range of products under the Vitamin C, Peptide and Direct Acid categories, and to help our ever-growing, loving family of users build functional and effective routines incorporating these products we have developed an introductory guideline into the brand."
+    },
+    "sub_detail_2": "Apply to the entire face in the AM and PM after cleaning. If irritation occurs, cease use and consult a physician. Use only as directed on unbroken skin. Patch testing prior to use is advised. Keep out of reach of children."
+  },
+  "type": "serum",
+  "createdAt": {
+    "$date": "2021-03-20T17:06:52.520Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60562cce5818ae2e1896db0f"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "rouge coco bloom",
+  "img": "rouge-coco-bloom-hydrating-plumping-intense-shine-lip-colour-110-chance-0-11oz--packshot-default-172110-8835357736990.jpg",
+  "brand": "philosophy",
+  "price": 20.05,
+  "salePrice": 17.05,
+  "qty": 31,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Hydrating Plumping Intense Shine Lip Colour",
+      "feature": [
+        "Trehalose",
+        " Fructose",
+        " Glucose",
+        " Maltose",
+        " Urea",
+        " Sodium PCA",
+        " PCA",
+        " Sodium Lactate",
+        " Citric Acid",
+        " Hydroxypropyl Cyclodextrin",
+        " Sodium Chloride"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "A lipstick that combines longwearing intense colour and a high-shine finish with hydrating benefits.",
+      "feature": "The patented formula glides on smoothly, so lips feel comfortable and soft while looking vibrant, full and supple.  All in an innovative ROUGE COCO case with a transparent cap so you can easily choose your shade"
+    },
+    "sub_detail_2": "Swipe lipstick directly onto lips or use a lip brush for precise, even coverage."
+  },
+  "type": "lip",
+  "createdAt": {
+    "$date": "2021-03-20T17:11:42.538Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60563f995818ae2e1896db10"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "rouge coco flash",
+  "img": "rouge-coco-flash-hydrating-vibrant-shine-lip-colour-92-amour-0-1oz--packshot-default-174092-8822410018846.jpg",
+  "brand": "philosophy",
+  "price": 40,
+  "salePrice": null,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Hydrating Vibrant Shine Lip Colour",
+      "feature": [
+        "The intensely pigmented formula features an innovative blend of oils to moisturize and glide smoothly onto lips",
+        " All in an innovative ROUGE COCO case reinvented with a transparent cap so you can easily choose your shade."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "A comfortable lipstick with intense colour that transforms on contact with lips for an enhanced high-shine effect.",
+      "feature": "Swipe lipstick directly onto lips or use a lip brush for precise, even coverage."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lip",
+  "createdAt": {
+    "$date": "2021-03-20T18:31:53.232Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605640725818ae2e1896db11"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "ombre première laque",
+  "img": "ombre-premiere-laque-longwear-liquid-eyeshadow-22-rayon-0-2fl-oz--packshot-default-175022-8822914908190.jpg",
+  "brand": "luna",
+  "price": 36,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Longwear Liquid Eyeshadow",
+      "feature": [
+        "Apply to eyelids with fingertips",
+        " the included applicator or a CHANEL eyeshadow brush. Use a lighter shade to highlight cheekbones and the eye area."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "A longwearing liquid eyeshadow that leaves a metallic veil on lids for a mesmerizing look",
+      "feature": "One swipe delivers lustrous, buildable colour that can be smudged out easily with fingertips for a soft-focus effect."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyes",
+  "createdAt": {
+    "$date": "2021-03-20T18:35:30.625Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605641505818ae2e1896db12"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "les 4 ombres",
+  "img": "les-4-ombres-multi-effect-quadra-eyeshadow-334-modern-glamour-0-07oz--packshot-default-164334-8819563626526.jpg",
+  "brand": "luna",
+  "price": 20.05,
+  "salePrice": 18.9,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Multi-Effect Quadra Eyeshadow",
+      "feature": [
+        "20 shades available",
+        " LES 4 OMBRES eyeshadow palettes feature a vibrant",
+        " pigment-rich formula in four tones inspired by threads of CHANEL tweed"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Each easy-to-wear compact offers endless possibilities, with two medium tones to colour and contour, a deep shadow to intensify and a light shade to highlight. Pure, long-lasting pigments ensure an intense colour effect while the soft, smooth texture allows for effortless application.",
+      "feature": "Apply LES 4 OMBRES dry using the deluxe applicators or a CHANEL eyeshadow brush. Each colour may be used on its own or blended for a more intense look."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyes",
+  "createdAt": {
+    "$date": "2021-03-20T18:39:12.026Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056420b5818ae2e1896db13"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "le volume stretch",
+  "img": "le-volume-stretch-de-chanel-volume-and-length-mascara-3d-printed-brush-10-noir-0-21oz--packshot-default-191810-8825045352478.jpg",
+  "brand": "luna",
+  "price": 20.05,
+  "salePrice": 17.05,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Volume and Length Mascara 3D-Printed Brush",
+      "feature": [
+        "The patent-pending* 3D-printed brush is uniquely designed with a rounded shape",
+        " micro-bristles and a hollow core to wrap and stretch lashes in a single stroke."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "This innovative mascara features a flexible latex-based formula to volumize and lengthen lashes for the ultimate wide-eye look.",
+      "feature": "For best results, prep with LA BASE MASCARA. Coat lashes from roots to tips, adding a second coat if desired."
+    },
+    "sub_detail_2": "*French patent pending"
+  },
+  "type": "eyes",
+  "createdAt": {
+    "$date": "2021-03-20T18:42:19.942Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605643295818ae2e1896db14"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "stylo yeux waterproof",
+  "img": "stylo-yeux-waterproof-long-lasting-eyeliner-88-noir-intense-0-01oz--packshot-default-187880-8834783871006.jpg",
+  "brand": "luna",
+  "price": 33.9,
+  "salePrice": 32.5,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A waterproof, smudge-proof eyeliner in a wide range of shades that offers long-lasting definition with a twist of the wrist: The retractable tip winds up when you need it and winds down when you don't.",
+      "feature": [
+        "Sodium Hydroxide",
+        " Butylene Glycol",
+        " Pentylene Glycol",
+        " Acacia Senegal Gum",
+        " Xanthan Gum",
+        " Carbomer",
+        " Polysorbate 20"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "A gentle, soft, silicone-enriched formula draws a smooth, even line. Includes a detachable sharpener at the opposite end.",
+      "feature": "Apply STYLO YEUX WATERPROOF eyeliner using short, feathery strokes, staying close to the lashline for a modern effect."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyes",
+  "createdAt": {
+    "$date": "2021-03-20T18:47:05.016Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605644485818ae2e1896db15"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "stylo sourcils waterproof",
+  "img": "stylo-sourcils-waterproof-defining-longwear-eyebrow-pencil-802-auburn-0-009oz--packshot-default-183802-8800832782366.jpg",
+  "brand": "luna",
+  "price": 33.9,
+  "salePrice": 32.5,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Defining Longwear Eyebrow Pencil",
+      "feature": [
+        "6 shades available",
+        " A long-lasting",
+        " easy-to-apply tool for precise application and buildable intensity"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "A long-lasting, easy-to-apply tool for precise application and buildable intensity. With a twist-up pencil end and spooley brush end for impeccable brows. In six universal shades.",
+      "feature": "With the pencil end, use the flat edge to shade and pointed pencil tip to define. Groom and define with the spooley brush end."
+    },
+    "sub_detail_2": "Please be aware that ingredient lists may change or vary from time to time. To confirm that a CHANEL product is suitable for your personal use, please consult the list of ingredients that is included on our product packaging."
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2021-03-20T18:51:52.407Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605645025818ae2e1896db16"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "la palette sourcils",
+  "img": "la-palette-sourcils-brow-wax-and-brow-powder-duo-01-light-0-14oz--packshot-default-182450-8825045516318.jpg",
+  "brand": "luna",
+  "price": 62.05,
+  "salePrice": 32.5,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Bring dimension to your eyebrows with this all-in-one brow kit. Features a brow wax and powder, as well as mini tweezers, a mini spooley brush and an angled brush for effortless application.",
+      "feature": [
+        "Concentrated mineral pigments ensure even application for natural",
+        " well-defined brows."
+      ]
+    },
+    "sub_detail": {
+      "title": "How to use",
+      "description": "Brow Wax and Brow Powder Duo",
+      "feature": "Groom brows with the mini tweezers. Using the angled brush, apply the wax to create shape and definition, then fill in sparse areas with the powder. Brush through brows with the spooley to blend and set."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2021-03-20T18:54:58.607Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605645a85818ae2e1896db17"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "ombre première gloss",
+  "img": "ombre-premiere-gloss-top-coat-eyeshadow-solaire-0-1oz--packshot-default-151067-8811887362078.jpg",
+  "brand": "luna",
+  "price": 33.5,
+  "salePrice": 18.9,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Top Coat Eyeshadow",
+      "feature": [
+        " Dipeptide Diaminobutyroyl Benzylamide Diacetate",
+        " Acetylarginyltryptophyl Diphenylglycine",
+        " Sodium Hyaluronate Crosspolymer"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Created exclusively for the Cruise 2019 Collection, this limited-edition shimmering eye gloss seamlessly glides onto lids for a high-shine look. Available in luminous golden and silver shades that can be worn alone or over eye makeup.",
+      "feature": "Apply onto eyelids with fingertips or the Retractable Dual-Tip Eyeshadow Brush."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyes",
+  "createdAt": {
+    "$date": "2021-03-20T18:57:44.455Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605646b75818ae2e1896db18"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "ombre première",
+  "img": "ombre-premiere-longwear-cream-eyeshadow-810-pourpre-profond-0-14oz--packshot-default-176810-8800865288222.jpg",
+  "brand": "luna",
+  "price": 33.9,
+  "salePrice": 18.9,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Longwear Cream Eyeshadow",
+      "feature": [
+        "6 shades available",
+        " In eight versatile",
+        " longwearing shades"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "This easy-to-wear formula can be applied with fingertips. For the most ideal application, use accompanying brush applicator or Retractable Dual-Tip Eyeshadow Brush.",
+      "feature": "Wear alone or mix and match to create your own shades. For a custom colour look and a lasting, more intense result, apply before OMBRE PREMIÈRE Longwear Powder Eyeshadow."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyes",
+  "createdAt": {
+    "$date": "2021-03-20T19:02:15.222Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605647375818ae2e1896db19"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "crayon sourcils",
+  "img": "crayon-sourcils-sculpting-eyebrow-pencil-60-noir-cendre-0-03oz--packshot-default-183060-8800834224158.jpg",
+  "brand": "luna",
+  "price": 20.05,
+  "salePrice": 18.9,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Sculpting Eyebrow Pencil",
+      "feature": [
+        "Dipeptide Diaminobutyroyl Benzylamide Diacetate",
+        " Acetylarginyltryptophyl Diphenylglycine",
+        " Sodium Hyaluronate Crosspolymer"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "The ideal way to groom your eyebrows. A soft, smoothly textured brow pencil that applies easily, shapes and shades perfectly, and stays put for long-wearing, natural definition.",
+      "feature": "Natural waxes and a built-in grooming brush allow for easy, comfortable application."
+    },
+    "sub_detail_2": "Using the attached brush, sweep brow hairs in an upward motion, starting at the inner brow line. Work toward the arch in short, feathery strokes. Fill in brows with CRAYON SOURCILS as needed and blend."
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2021-03-20T19:04:23.333Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605648905818ae2e1896db1a"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "DIOR FOREVER NATURAL NUDE",
+  "img": "n04-9637.png",
+  "brand": "bobbi brown",
+  "price": 70.05,
+  "salePrice": 60.05,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Lightweight foundation - 24h* wear natural complexion - 96%** ingredients of natural origin",
+      "feature": [
+        "Dior Forever Natural Nude foundation",
+        " enriched with floral skincare",
+        " works to achieve more beautiful",
+        " stronger skin",
+        " day after day."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Dermatologically tested, suitable for all skin types, even sensitive skin.",
+      "feature": "For 24h* straight, the complexion is perfectly even, luminous and natural-looking.\r\nIts fresh and lightweight texture, with a high concentration of water, lets the skin breathe and hydrates for 24h.**"
+    },
+    "sub_detail_2": ""
+  },
+  "type": "face",
+  "createdAt": {
+    "$date": "2021-03-20T19:10:08.614Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60564a785818ae2e1896db1b"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "MATTIFYING & MOISTURIZING PRIMER",
+  "img": "f77e4aba0cf6351cecd10408d7528b74_800x.jpg",
+  "brand": "bobbi brown",
+  "price": 62.05,
+  "salePrice": 32.5,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "This totally weightless \"powder no powder\" delivers a sheer, always natural finish. Formulated with no added talc",
+      "feature": [
+        "Formulated with no added talc",
+        " Infused in a gelled base",
+        " This incredible powder provides a lightweight finish with no powdery effect"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "The powder is effortlessly suited to men as well: its natural perfecting finish leaves no visible streaks, making it the perfect ally for a discreet, flawless complexion.",
+      "feature": "Face & Body Powder-No-Powder helps create an even, naturally matte and luminous complexion that lasts all day long, with no powdery finish. Instantly, the skin appears perfected: imperfections are blurred, shine is reduced, the complexion is naturally more even and skin texture is smoothed."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "face",
+  "createdAt": {
+    "$date": "2021-03-20T19:18:16.445Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60564bd45818ae2e1896db1c"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "WEIGHTLESS SOFT-VELVET BLURRING LOOSE POWDER",
+  "img": "01_03ffe1f7-51a9-4b41-bde8-6b685e942c58_800x.png",
+  "brand": "philosophy",
+  "price": 33.9,
+  "salePrice": null,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Ultra-fine skin fresh loose powder - long-wear translucent perfection",
+      "feature": [
+        "A naturally matte and luminous complexion all day long",
+        " A perfectly even complexion",
+        " A result that is totally seamless with the skin."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "this loose powder with a fresh and silky texture works in harmony with the skin tone to achieve an even, matte and naturally vibrant complexion in any situation.",
+      "feature": "Infused with water and formulated with wild pansy extract, the loose powder respects the skin and improves the quality of the complexion. Dermatologically tested - non-comedogenic"
+    },
+    "sub_detail_2": ""
+  },
+  "type": "face",
+  "createdAt": {
+    "$date": "2021-03-20T19:24:04.135Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60564d7f5818ae2e1896db1d"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "HYDRATING RADIANT ESSENCE FOUNDATION",
+  "img": "1_3f5b56ab-30ec-44ce-9c7a-c8d04895f8c1_1024x1024.jpg",
+  "brand": "philosophy",
+  "price": 59.5,
+  "salePrice": null,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Matifying liquid formula is ideal for normal to oily skin. Matifies and controls shine for hours.",
+      "feature": [
+        "more comfortable than ever before. Infallible® Advanced Never Fail Makeup",
+        " fights the five signs of makeup meltdown"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Advanced Never Fail Makeup, fights the five signs of makeup meltdown. It's energizing vitamin and mineral complex combats the signs of fatigue.",
+      "feature": "Continuous concealing hides imperfections. Smoothing pigments resist fading and rub-off. Oil-absorbing mattifiers stop shine. SPF 20 and anti-humidity ingredients fight the elements. Now with 18 non-stop hours of comfortable fade-proof wear!"
+    },
+    "sub_detail_2": ""
+  },
+  "type": "face",
+  "createdAt": {
+    "$date": "2021-03-20T19:31:11.818Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60564ebe5818ae2e1896db1e"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Fresh Glow Gel Stick – Honey Beige ",
+  "img": "5ae8f08ec4c8f05dcf1d83d4025b9024.jpg",
+  "brand": "philosophy",
+  "price": 70.05,
+  "salePrice": null,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Introducing Fresh Glow Gel Stick. An innovative water-infused foundation and concealer that provides flawless, medium to high coverage with weightless wear.",
+      "feature": [
+        " Flawless",
+        " medium to high coverage",
+        " Weightless wear",
+        "  Glow on the go"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "To conceal and correct, dot on to imperfections, dark spots and blemishes. Directly dab on skin to touch up when on the move during the day.",
+      "feature": "A unique aloe vera and water-gel based formula, it releases encapsulated water on application to revitalise and hydrate skin. The formula is enriched with optical diffusers for a natural, radiant finish – apply a soft layer or build coverage as desired for an undetectable, flawless skin finish that lasts all day."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "face",
+  "createdAt": {
+    "$date": "2021-03-20T19:36:30.316Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60564fc55818ae2e1896db1f"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Fresh Glow Luminous Fluid Base – Nude Radiance No.01",
+  "img": "c32c5e2e2d44177439633818a8322221e171c244.jpg",
+  "brand": "philosophy",
+  "price": 58.5,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "The 55% water-infused primer glides across the skin with incredible ease and hydrates instantly. Its blend of mirror-flat intense reflection pearls help to blur minor imperfections for a shimmer-free, youthful luminosity.",
+      "feature": [
+        "Universal skin-illuminating base",
+        " water-based formula",
+        " Multi-use"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Discover the runway beauty icon, Fresh Glow Luminous Fluid Base.",
+      "feature": "The whisper-light fluid illuminates the complexion, resulting in the Burberry glow."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "face",
+  "createdAt": {
+    "$date": "2021-03-20T19:40:53.826Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605650bf5818ae2e1896db20"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Lip Velvet Rosewood No.421",
+  "img": "452bc0732f09de1b0f3405c0d170fb31941fcf02.jpg",
+  "brand": "bobbi brown",
+  "price": 62.05,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Discover the modern way to wear matte, inspired by the most opulent of English fabrics.",
+      "feature": [
+        "One-stroke full coverage",
+        " soft-matte texture",
+        " Non-drying formula"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "The richly pigmented lip colour glides on effortlessly, delivering a creamy, soft-matte finish with elegant and bold full coverage in one stroke",
+      "feature": "The light-as-air, comfortable-wear lipstick delivers defined shape and continuous"
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lip",
+  "createdAt": {
+    "$date": "2021-03-20T19:45:03.591Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605652085818ae2e1896db21"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Burberry Kisses – Union Red No.113",
+  "img": "burberry_kisses_93_1550935432_4f6c31d9_progressive.jpg",
+  "brand": "bobbi brown",
+  "price": 33.9,
+  "salePrice": 32.5,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Discover an effortlessly buildable lip colour, for multiple lip looks with just one shade.",
+      "feature": [
+        "Buildable colour",
+        " Satin finish",
+        " Continuous hydration"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Infused with Burberry's signature blend of rosehip, tea and lavender, the whisper-light texture glides on with supreme comfort and gives continuous hydration.",
+      "feature": "A rich blend of satin-finish pigments and shiny polymers gives luminous colour brilliance, while the weightless formula delivers a customisable make-up result: a single kiss of colour gives understated luminosity, two or three kisses give intense depth and vibrancy."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lip",
+  "createdAt": {
+    "$date": "2021-03-20T19:50:32.105Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605652805818ae2e1896db22"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "dimensions ultimes",
+  "img": "dimensions-ultimes-de-chanel-mascara-extreme-wear-rinsable-10-noir-pur-pure-black-0-21oz--packshot-default-190610-8834183168030.jpg",
+  "brand": "philosophy",
+  "price": 62.05,
+  "salePrice": 18.9,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Mascara – Extreme Wear – Rinsable",
+      "feature": [
+        "A long-lasting mascara that provides curl",
+        " definition and volume for longer-looking lashes"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "For best results, prep with mascara base. Before the base dries, coat lashes from base to tip, adding a second coat if desired.",
+      "feature": "For best results, prep with LA BASE MASCARA. Before the base dries, coat lashes from base to tip, adding a second coat if desired."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2021-03-20T19:52:32.363Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056534e5818ae2e1896db23"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Burberry Kisses Lip Lacquer – Creamy Rose No.07",
+  "img": "a8c6153d79efde48785fbc57a20e7b22b2418ef4.jpg",
+  "brand": "bobbi brown",
+  "price": 20.05,
+  "salePrice": null,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Introducing Burberry Kisses Lip Lacquer, Burberry’s first long-lasting liquid lip lacquer with a glossy, laminated finish",
+      "feature": [
+        "High-shine and full coverage in one stroke",
+        " non-drying formula delivers bold colour with a comfortable gel-like texture"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "The hyaluronic acid enriched formula helps keep lips moisturised and supple all day.",
+      "feature": "Use the tip of the applicator to line your lips with precision, then use the flat part to fill in the lips for bold colour impact."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lip",
+  "createdAt": {
+    "$date": "2021-03-20T19:55:58.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056543c5818ae2e1896db24"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Effortless Eyebrow Definer – Ash Brown No.03",
+  "img": "1c743a79e0312ecce79a59af50a9407d2f344489.jpg",
+  "brand": "philosophy",
+  "price": 18.5,
+  "salePrice": 12.5,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "INGREDIENTS",
+      "description": "Create the signature Burberry brow with Effortless Eyebrow Definer",
+      "feature": [
+        "Natural-looking definition",
+        " Buildable powder texture",
+        " Double-ended pencil and brush"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Filling in sparse hairs and adding subtle colour, the slanted, triangular tip and powder texture allow for total precision.",
+      "feature": "The dual-ended eyebrow pencil and brush effortlessly define and shape, creating naturally fuller-looking brows."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2021-03-20T19:59:56.751Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056554a5818ae2e1896db25"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Bold Cherry No.103",
+  "img": "Burberry-Clash-Spring-2021-Lipstick-Collection-Burberry-Kisses-–-Oxblood-No.97.jpg",
+  "brand": "bobbi brown",
+  "price": 29.83,
+  "salePrice": null,
+  "qty": 7,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "This bold and expressive Bold Cherry hue makes creating vibrant make-up looks effortless and will lift your complexion.",
+      "feature": [
+        "With a new satin finish and long-lasting formula",
+        " Burberry Kisses lip colour has an intense pigment that creates medium to high coverage and stays in place all day long"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "The hyaluronic acid-enriched formula helps to keep lips hydrated and comfortable for up to 24 hours",
+      "feature": "The hyaluronic acid-enriched formula helps to keep lips hydrated and comfortable for up to 24 hours. The colour is imbued with a fresh rose scent for a total sensory experience."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lip",
+  "createdAt": {
+    "$date": "2021-03-20T20:04:26.806Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605655fc5818ae2e1896db26"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Chestnut Brown No.02",
+  "img": "0af1ed4120c3c7604f3c13ff6a83bd0e740f5e01.jpg",
+  "brand": "philosophy",
+  "price": 20.05,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "The new eye-opening volume mascara that creates a cat-eye effect. Powerful and captivating, lashes are extended, beautifully styled and fanned out.",
+      "feature": [
+        "The mascara delivers an intense clump-free finish and all-day wear",
+        " while lashes remain soft and flexible."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "The cone-shaped tip can be used to stretch out the outer corner lashes to emphasise a cat-eye look.",
+      "feature": "The innovative hour glass-shaped brush, made with elastomer, hugs, stretches and separates each lash to deliver incredibly fanned-out lashes, defined length and eye-opening volume from corner to corner."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2021-03-20T20:07:24.908Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605656885818ae2e1896db27"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Full Brows - Sepia No.02",
+  "img": "1c743a79e0312ecce79a59af50a9407d2f344489.jpg",
+  "brand": "philosophy",
+  "price": 33.9,
+  "salePrice": 32.5,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "The new all-in-one tool for full and flawless brows.",
+      "feature": [
+        "Waterproof and long-lasting",
+        " the watercolour-like formula mimics the look of natural hairs and fills in gaps where necessary."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "The brow builder is designed for effortless application with a customisable finish.",
+      "feature": "Full Brows features a two-step approach – a water-based liner to define and fill on one end with a powder-wax shadow to build and set on the other."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyes",
+  "createdAt": {
+    "$date": "2021-03-20T20:09:44.031Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605657cd5818ae2e1896db28"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Ethylated Ascorbic Acid 15% Solution",
+  "img": "rdn-100pct-organic-cold-pressed-moroccan-argan-oil-30ml.png",
+  "brand": "mukti",
+  "price": 33.9,
+  "salePrice": 18.9,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "An Exceptionally-Stable, Direct-Acting Form of Vitamin C",
+      "feature": [
+        "Propanediol",
+        " Ethyl Ascorbic Acid."
+      ]
+    },
+    "sub_detail": {
+      "title": "Technology",
+      "description": " Since this formulation is a water-free solution, it may feel slightly \"oily\" for a few seconds after application, despite the absence of all oils.",
+      "feature": "An exceptionally-stable solution of 15% Ethylated Ascorbic Acid, this water-free formula offers a direct-acting approach to achieving a radiant, healthy-looking skin tone. Unlike other Vitamin C derivatives, this ethylated form acts directly like Vitamin C, is closer in molecular weight to actual Vitamin C which allows for faster visible results, and offers a much better stability profile than any known direct-acting form of Vitamin C."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "serum",
+  "createdAt": {
+    "$date": "2021-03-20T20:15:09.326Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605658cd5818ae2e1896db29"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "NORMAL TO DRY SENSITIVE SKIN",
+  "img": "La-Roche-Posay-ProductPage-Sensitive-Allergic-Toleriane-Caring-Wash-400ml-3337875545778-Front.png",
+  "brand": "mukti",
+  "price": 33.9,
+  "salePrice": null,
+  "qty": 5,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A face cleanser that contains only the essential ingredients for cleansing and removing make-up, with cocobetaine, a gentle, cleansing surfactant combined with 4 caring ingredients.",
+      "feature": [
+        "Contains only the essential ingredients for cleansing and removing make-up",
+        " with cocobetaine",
+        " a gentle",
+        " cleansing surfactant combined with 4 caring ingredients."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Make-up remover. Anti-Discomfort. Anti-Dryness.Removing impurities.",
+      "feature": "Ultra-safe formulation charter : fragrance-free. Contains 4 sothing and protecting active ingredients.\r\nThe perfect solution for sensitive skin which enjoys the pleasure and freshness of rinsing with clear water."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "cleansing",
+  "createdAt": {
+    "$date": "2021-03-20T20:19:25.604Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056598d5818ae2e1896db2a"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "SENSITIVE AND DRY SKIN",
+  "img": "LaRoche-Posay-ProductPage-Face-Cleanser-Physiological-Make-Up-Remover-Milk-200ml-3337872410314-Front.png",
+  "brand": "mukti",
+  "price": 33.9,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "MAKE-UP REMOVER MILK gently removes waterproof make-up and respects skin's physiological balance. It also purifies, soothes and protects the skin.",
+      "feature": [
+        "Smooth",
+        " high-comfort milk",
+        " With La Roche-Posay Thermal Spring Water."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "High make-up removal efficacy and cleansing agents selected for an optimal tolerance.",
+      "feature": "Massage onto the skin with the fingertips or using a soft cotton ball.\r\nThen apply SOOTHING LOTION to complete the make-up removal."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "cleansing",
+  "createdAt": {
+    "$date": "2021-03-20T20:22:37.714Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60565a3b5818ae2e1896db2b"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "hydra beauty camellia water cream",
+  "img": "504557276_30ML_hero.jpg",
+  "brand": "mukti",
+  "price": 80.05,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Illuminating Hydrating Fluid",
+      "feature": [
+        "PolyFractioned Active. An ultra-pure",
+        " ultra-powerful ingredient created through a specific process "
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Featuring a lightweight fluid texture, this refreshing face moisturizer is drenched in camellia water to intensely hydrate skin. The illuminating formula leaves the complexion prepped for makeup with a glowing, even-toned appearance.",
+      "feature": "HYDRA BEAUTY CAMELLIA WATER CREAM combines Camellia Alba PFA*—a powerful extract that helps skin maintain optimal moisture levels—with hyaluronic acid, vitamins C and E and Blue Ginger PFA* for a complexion that appears refined, replenished, radiant and plump."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "cleansing",
+  "createdAt": {
+    "$date": "2021-03-20T20:25:31.103Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60565aca5818ae2e1896db2c"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "FOR SENSITIVE SKIN",
+  "img": "La-Roche-Posay-ProductPage-Face-Cleanser-Physiological-Micellar-Ultra-400ml-3337872411595-Front.png",
+  "brand": "mukti",
+  "price": 33.9,
+  "salePrice": 18.9,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "MICELLAR WATER ULTRA Sensitive Skin cleanses skin of impurities, removing make-up and pollution. It also soothes the skin to provide comfort and freshess.",
+      "feature": [
+        "Fresh fragrance",
+        " With La Roche-Posay Thermal Spring Water."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Formulated with micelles and glycerin, MICELLAR WATER ULTRA Sensitive Skin cleanses skin of impurities, removing make-up and pollution",
+      "feature": "Soak a cotton pad with product.\r\nFirst remove make-up from the lips, then the eyes (one cotton pad per eye) then the rest of the face, until the cotton pads are no longer stained. For greater effectiveness and to limit rubbing, hold the cotton pad against the skin for a few seconds before gently wiping."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "cleansing",
+  "createdAt": {
+    "$date": "2021-03-20T20:27:54.039Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60565b8d5818ae2e1896db2d"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Lactic Acid 5% + HA",
+  "img": "rdn-lactic-acid-5pct-ha-30ml.png",
+  "brand": "mukti",
+  "price": 25.8,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A mild lactic acid superficial peeling formulation",
+      "feature": [
+        "Apply a small amount of the product onto a clean area of skin on the upper forearm",
+        " Keep the area dry."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Lactic Acid is an alpha hydroxy acid that exfoliates the skin. This 5% formulation offers very mild exfoliation and is supported with a purified Tasmanian pepperberry known to reduce signs of inflammation and sensitivity that is often associated with exfoliation.",
+      "feature": "This formula contains a studied Tasmanian Pepperberry derivative to help reduce irritation associated with acid use. This derivative is of plant origin and varies in colour seasonally and this colour variation may be apparent in the formula from time to time.\r\nContraindications: Lactic Acid should not be used on sensitive, peeling or compromised skin. Please refer to additional sun protection note and other warnings in provided Directions."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "serum",
+  "createdAt": {
+    "$date": "2021-03-20T20:31:09.779Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60565cac5818ae2e1896db2e"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Glycolic Acid 7% Toning Solution",
+  "img": "rdn-glycolic-acid-7pct-toning-solution-240ml.png",
+  "brand": "mukti",
+  "price": 25.8,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "With 7% glycolic acid, amino acids, aloe vera, ginseng and tasmanian pepperberry",
+      "feature": [
+        "Aqua (Water)",
+        " Glycolic Acid",
+        " Rosa damascena flower water",
+        " Centaurea cyanus flower water",
+        " Aloe Barbadensis Leaf Water",
+        " Propanediol",
+        " Glycerin",
+        " Triethanolamine"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Glycolic Acid is an alpha hydroxy acid that exfoliates the skin. This 7% toning solution offers mild exfoliation for improved skin radiance and visible clarity. The formula also improves the appearance of skin texture with continued use",
+      "feature": "This formula contains a studied Tasmanian Pepperberry derivative to help reduce irritation associated with acid use. This derivative is of plant origin and varies in colour seasonally and this colour variation may be apparent in the formula from time to time. The formula is further supported with inclusion of ginseng root and aloe vera for both visible radiance and soothing benefits.\r\n"
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lotion",
+  "createdAt": {
+    "$date": "2021-03-20T20:35:56.317Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60565d225818ae2e1896db2f"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "SENSITIVE AND MATURE SKIN",
+  "img": "La-Roche-Posay-ProductPage-Anti-Aging-Serum-Substiane-Serum-30ml-3337872413971-Front.png",
+  "brand": "mukti",
+  "price": 20.05,
+  "salePrice": 18.9,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "SUBSTIANE Serum helps to deeply replenish skin's volume whilst increasing density and bounce, for fuller looking skin.",
+      "feature": [
+        "Light yet contouring",
+        " non-greasy",
+        " sensorial and rich serum texture."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "An active anti-ageing serum developed specifically for mature and sensitive skin. Helps to increase skin's density and volume, thus restoring bounce and fullness to mature skin.",
+      "feature": "The unique formula is enriched with LR2412 + LINACTYL + PRO-XYLANE™, a unique combination of highly concentrated active ingredients to help restore skin's volume.\r\nIts rich, creamy, melt-in serum texture provides a “skin-holding” effect."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "serum",
+  "createdAt": {
+    "$date": "2021-03-20T20:37:54.575Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60565ed85818ae2e1896db30"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Super-Light Wrinkle ",
+  "img": "kem-duong-ngay-paulas-choice-resist-super-light-wrinkle-defense-spf-304.jpg",
+  "brand": "mukti",
+  "price": 29.83,
+  "salePrice": 29.05,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A lightly tinted mineral-based formula that protects skin from sun damage and fortifies it with state-of-the-art antioxidants.",
+      "feature": [
+        "Prevents premature aging of skin",
+        " Boost skin’s environmental defenses"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "RESIST Super-Light Daily Wrinkle Defense SPF 30 contains a special blend of a lightly tinted, pure mineral zinc oxide sunscreen along with a diverse blend of antioxidants known to boost skin’s environmental defenses and prevent premature aging of skin, all with an exceptionally silky, light-matte feel.",
+      "feature": "An age-fighting formula that protects and fortifies skin. You’ll see a more even-looking skin tone from first use, and with daily use you’ll see that skin feels and looks firmer. This unbelievably light and silky moisturizer perfectly preps skin for makeup.The SPF 30 is a significant benefit as it decreases the risk of skin cancer and early skin aging caused by the sun if used as directed with other sun protection measures."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "moisturiser",
+  "createdAt": {
+    "$date": "2021-03-20T20:45:12.505Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605660455818ae2e1896db31"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Barrier Repair Moisturizer with Retinol",
+  "img": "7610-resist-barrier-repair-moisturizer-with-retinol-slide-1-08062020.jpg",
+  "brand": "mukti",
+  "price": 62.05,
+  "salePrice": 60.05,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A remarkable skin-renewing anti-aging moisturizer that nourishes dehydrated skin while promoting a firmer-looking, radiant complexion.",
+      "feature": [
+        "Advanced formula targets all signs of aging",
+        " Retinol helps improve the appearance of wrinkles",
+        " Hydrating",
+        " creamy formula",
+        " Use as the last step in your PM skincare routine",
+        " Low-strength 0.01% retinol concentration"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "RESIST Barrier Repair Moisturizer goes beyond moisturizing to deliver an innovative mix of research-proven ingredients known to reduce the appearance of fine lines, wrinkles, dull skin tone, and loss of firmness.",
+      "feature": "Helps prevent moisture loss while still feeling light on skin. Its silky lotion texture is infused with retinol to visibly reduce the appearance of wrinkles and to firm skin. It also has a unique complex of antioxidants that reduce the effects of environmental assault."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "moisturiser",
+  "createdAt": {
+    "$date": "2021-03-20T20:51:17.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605661115818ae2e1896db32"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Water-Infusing Electrolyte Moisturizer",
+  "img": "7000-water-infusing-electrolyte-moisturizer-slide-1-08062020.jpg",
+  "brand": "mukti",
+  "price": 70.05,
+  "salePrice": 62.05,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "This refreshing electrolyte-charged formula replenishes thirsty skin’s water content for lasting, weightless hydration and an instant plump, dewy look.",
+      "feature": [
+        "Restores vital hydration & nutrients",
+        " Electrolytes calcium",
+        " magnesium & potassium energize skin\r\nAiry lightweight texture",
+        " Use as the last step in your PM skincare routine",
+        " Even suitable for breakout-prone skin"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "The electrolytes in this quenching formula work with natural hydrators to draw the right amount of moisture into skin and hold it there",
+      "feature": "Mineral electrolytes calcium, potassium, and magnesium are linked with skin-identical PCA (pyrrolidone carboxylic acid, part of skin’s natural moisturizing factor), allowing them to work within skin’s water channels (aquaporins) to deliver vital hydrators like ceramides and glycerin. These enhanced minerals also train skin to maintain its moisture balance, strengthen its barrier, and create a healthier, more energized appearance."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "moisturiser",
+  "createdAt": {
+    "$date": "2021-03-20T20:54:41.545Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605661be5818ae2e1896db33"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Redness Relief Moisturizer for Normal to Dry Skin",
+  "img": "9140-calm-redness-relief-moisturizer-for-normal-to-dry-skin-slide-1-08062020.jpg",
+  "brand": "mukti",
+  "price": 80.05,
+  "salePrice": 62.05,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "An age-defying moisturizer formulated for soothing skin relief and drenching hydration. Gentle nourishment for visible plumping, radiance, and diminished appearance of wrinkles.",
+      "feature": [
+        "Nourishing plant oils and antioxidants soothe skin",
+        " Enriches skin to ease redness & sensitivity",
+        " Silky soothing cream leaves a radiant finish",
+        " Use as the last step in your PM skincare routine"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "CALM Redness Relief Moisturizer Normal to Dry Skin contains specially-selected soothing plant extracts and skin-replenishing ingredients known to visibly soothe sensitive skin and red areas.",
+      "feature": "Provides soothing relief for dry, reddened skin. Its custom mix of gentle plant oils, antioxidants, smoothing emollients, and skin-replenishing ingredients leaves a dewy, radiant finish. Dry skin is smoothed, luxuriously softened, and bolstered with what it needs to look younger and hydrated. Gentle enough even for skin prone to rosacea."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "moisturiser",
+  "createdAt": {
+    "$date": "2021-03-20T20:57:34.305Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056626f5818ae2e1896db34"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Redness Relief SPF 30 Mineral Moisturizer for Normal to Dry Skin",
+  "img": "9130-redness-relief-spf-30-mineral-moisturizer-for-normal-to-dry-skin-slide-1-08062020.jpg",
+  "brand": "mukti",
+  "price": 80.05,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "",
+      "description": "A mineral-based sunscreen that replenishes dry, sensitive skin with smoothing hydration while protecting it against damaging UVA/UVB rays.",
+      "feature": [
+        "Diminishes the appearance of redness",
+        " Helps keep skin looking younger",
+        " Creamy lotion texture",
+        " Use as the last step in your AM skincare routine"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "CALM Redness Relief SPF 30 Mineral Moisturizer Normal to Dry Skin combines the gentlest mineral-based sunscreen ingredients in a creamy advanced formula. You will have beautiful hydrated skin with the improved appearance of fine lines, dullness, and uneven skin tone. Sensitive skin will be comforted and cushioned with soothing emollients and a skin-enriching texture.",
+      "feature": "A redness-minimizing mix of soothing plant extracts, antioxidants, and peptides work to calm sensitive skin so it looks visibly younger and feels healthier. With daily use, skin will become less prone to temporary redness and visible signs of sensitivity, and, most important, may help to lower the risk of premature skin aging. The pure mineral zinc oxide sunscreen decreases the risk of skin cancer and early skin aging caused by the sun if used as directed with other sun protection measures. Gentle enough even for skin prone to rosacea."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "moisturiser",
+  "createdAt": {
+    "$date": "2021-03-20T21:00:31.627Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605664165818ae2e1896db35"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "HAND REPAIR CREAM",
+  "img": "La-Roche-Posay-Body-Care-Lipikar-Xerand-50ml-3337872412684-Front.png",
+  "brand": "luna",
+  "price": 33.9,
+  "salePrice": 18.9,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Very dry and irritated hands have a depleted protective skin barrier due to repeated stresses (such as climatic conditions and frequent cleansing)",
+      "feature": [
+        "Immediately penetrates",
+        " Non-greasy",
+        " With La Roche-Posay Thermal Spring Water."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Enriched with moisturising and repairing agents, LIPIKAR Xerand restores the skin barrier and protects the epidermis from external irritants.",
+      "feature": "100% of Lipikar Xerand Shea Butter comes from a socially responsible sourcing program in Burkina Faso."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lotion",
+  "createdAt": {
+    "$date": "2021-03-20T21:07:34.365Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605664e95818ae2e1896db36"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Weightless Body Treatment 2% BHA",
+  "img": "5700-resist-weightless-body-treatment-with-2-bha-slide-3.jpg",
+  "brand": "philosophy",
+  "price": 62.05,
+  "salePrice": 60.05,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "This leave-on body exfoliant with 2% BHA, also known as salicylic acid, gently exfoliates built-up layers of dead skin to reveal the radiant, smooth skin hiding underneath.",
+      "feature": [
+        "2% salicylic acid softens and refines rough skin",
+        " Antioxidants safeguard skin and keep it healthy",
+        " Silky lightweight lotion feels beautiful on skin",
+        " Ideal for hard",
+        " clogged pores on the arms and legs"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Weightless Body Treatment 2% BHA is unlike any body lotion you may have tried because of its unique skin-smoothing benefits that become visible from the first use",
+      "feature": "Works from the first application to visibly make rough, dry skin a thing of the past. Ongoing use banishes dullness and promotes resilient skin that’s touchably soft and ultimately smooth. This is a customer favorite, suitable even for skin prone to keratosis pilaris."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lotion",
+  "createdAt": {
+    "$date": "2021-03-20T21:11:05.268Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605665da5818ae2e1896db37"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Retinol Skin-Smoothing Body Treatment",
+  "img": "5800-skin-smoothing-retinol-body-treatment-slide-1-15062020.jpg",
+  "brand": "mukti",
+  "price": 42,
+  "salePrice": 32.5,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "An advanced moisturizing body lotion that gently gives skin the transforming power of pure retinol to help diminish the appearance of uneven skin tone and rejuvenate the feeling of soft firmer skin.",
+      "feature": [
+        "Pure retinol & antioxidants help transform skin",
+        " Natural butters & plant oils beautifully hydrate skin",
+        " Rich texture moisturizes dry skin",
+        " yet is non-greasy",
+        " Mid-strength 0.1% retinol concentration"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Retinol Skin-Smoothing Body Treatment melds key anti-aging ingredients normally seen in facial moisturizers into a silky-textured, lightweight, and thoroughly hydrating body lotion for all skin types",
+      "feature": "Uses a specialized retinol complex and potent antioxidants to intensively smooth and soften skin from the neck down. This silky, concentrated lotion, energized by the power of retinol, goes to work immediately to hydrate dry skin as well as give skin the essential ingredients it needs to look younger. Soothing emollients and plant oils provide an instant, healthy-looking glow you’ll love seeing and feeling."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "lotion",
+  "createdAt": {
+    "$date": "2021-03-20T21:15:06.942Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605666f65818ae2e1896db38"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Perfect hair Day Dry Shampoo",
+  "img": "432fb261f738ca287e328050bc92ac10.jpg",
+  "brand": "luna",
+  "price": 33.9,
+  "salePrice": null,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A dry shampoo that absorbs oils and keeps hair clean.",
+      "feature": [
+        "Cleans hair",
+        " Absorbs oil",
+        " sweat and odor",
+        " Makes hair look",
+        " feel and smell clean",
+        " Delivers fresh scent throughout the day",
+        " Silicone-free",
+        " color-safe",
+        " safe for chemically treated hair"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Achieve clean and fresh-smelling hair with Living Proof's Perfect Hair Day Dry Shampoo",
+      "feature": "Shake can extremely well for maximum cleaning results. Hold canister about 6-10\" away from dry hair. Section thoroughly and apply product in a sweeping motion to dirty/oily areas. Wait 30 seconds for the powders to activate and cleanse. Then remove by massaging and shaking at roots with fingers or brush hair. Apply more if needed, make sure to shake again. Style as desired."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "shampoo",
+  "createdAt": {
+    "$date": "2021-03-20T21:19:50.343Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60566a075818ae2e1896db39"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Amazing Grace Eau de Toilette",
+  "img": "615BVcJiJPL.jpg",
+  "brand": "philosophy",
+  "price": 58.5,
+  "salePrice": null,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "INTENSE HYDRATING MILK COMFORT AND FIRMNESS\r\n",
+      "feature": [
+        "Coconut Alkanes",
+        " Tetrahexyldecyl Ascorbate",
+        " Ethyl Linoleate",
+        " Coco-Caprylate/Caprate",
+        " Simmondsia Chinensis (Jojoba) Seed Oil",
+        " Solanum Lycopersicum (Tomato) Fruit Extract",
+        " Squalane."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Its soft, creamy texture with fresh floral notes is instantly absorbed by the body.",
+      "feature": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.\r\nThe Purple Bengle PFA* active ingredient offers firming action on collagen fibers.\r\nThe royal jasmine wax elixir ensures protection and comfort for the skin."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "pure grace",
+  "createdAt": {
+    "$date": "2021-03-20T21:32:55.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60566ad25818ae2e1896db3a"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Falling In Love Fragrance",
+  "img": "00580080_falling_in_love_fragrance_60ml.jpg",
+  "brand": "philosophy",
+  "price": 58.5,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A lush combination sure to send any heart a flutter, this blend of vanilla, soft florals, and ripe berries goes on sweet and dries down sexy.",
+      "feature": [
+        "Coconut Alkanes",
+        " Tetrahexyldecyl Ascorbate",
+        " Ethyl Linoleate",
+        " Coco-Caprylate/Caprate",
+        " Simmondsia Chinensis (Jojoba) Seed Oil",
+        " Solanum Lycopersicum (Tomato) Fruit Extract",
+        " Squalane."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Intense Hydrating Milk Comfort and Firmness moisturizes, protects and firms the skin. Its soft, creamy texture with fresh floral notes is instantly absorbed by the body.",
+      "feature": "Intense Hydrating Milk Comfort and Firmness, skin is soft, supple and firmer. It is soothed and enhanced.\r\n"
+    },
+    "sub_detail_2": ""
+  },
+  "type": "pure grace",
+  "createdAt": {
+    "$date": "2021-03-20T21:36:18.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60566c755818ae2e1896db3b"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Unconditional Love Fragrance",
+  "img": "00581303_unconditional_love_re_a1-1.jpg",
+  "brand": "philosophy",
+  "price": 58.5,
+  "salePrice": 32.5,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Intense Hydrating Milk Comfort and Firmness, skin is soft, supple and firmer. It is soothed and enhanced.\r\n",
+      "feature": [
+        "Coconut Alkanes",
+        " Tetrahexyldecyl Ascorbate",
+        " Ethyl Linoleate",
+        " Coco-Caprylate/Caprate",
+        " Simmondsia Chinensis (Jojoba) Seed Oil",
+        " Solanum Lycopersicum (Tomato) Fruit Extract",
+        " Squalane."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.",
+      "feature": "Before application, perform a series of deep and invigorating pinching movements (using the thumb and index finger) on dry areas of the body to optimise the action of the active ingredients."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "pure grace",
+  "createdAt": {
+    "$date": "2021-03-20T21:43:17.255Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60566c7e5818ae2e1896db3c"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Fresh Cream",
+  "img": "71lVdny5FoL._SL1500_.jpg",
+  "brand": "philosophy",
+  "price": 58.5,
+  "salePrice": 32.5,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.",
+      "feature": [
+        "Coconut Alkanes",
+        " Tetrahexyldecyl Ascorbate",
+        " Ethyl Linoleate",
+        " Coco-Caprylate/Caprate",
+        " Simmondsia Chinensis (Jojoba) Seed Oil",
+        " Solanum Lycopersicum (Tomato) Fruit Extract",
+        " Squalane."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "Intense Hydrating Milk Comfort and Firmness, skin is soft, supple and firmer. It is soothed and enhanced.\r\n",
+      "feature": "Before application, perform a series of deep and invigorating pinching movements (using the thumb and index finger) on dry areas of the body to optimise the action of the active ingredients."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "pure grace",
+  "createdAt": {
+    "$date": "2021-03-20T21:43:26.289Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60566e095818ae2e1896db3d"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Nourishing Olive Fruit Oil Shampoo",
+  "img": "shampoo_1600x_d5fcfe32-c8f2-4f35-b4f7-64af80c50319.jpg",
+  "brand": "philosophy",
+  "price": 27,
+  "salePrice": 18.9,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A three-in-one shower gel featuring philosophy's beloved Fresh Cream scent.",
+      "feature": [
+        "Coconut Alkanes",
+        " Tetrahexyldecyl Ascorbate",
+        " Ethyl Linoleate",
+        " Coco-Caprylate/Caprate",
+        " Simmondsia Chinensis (Jojoba) Seed Oil",
+        " Solanum Lycopersicum (Tomato) Fruit Extract",
+        " Squalane."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.\r\n",
+      "feature": "Before application, perform a series of deep and invigorating pinching movements (using the thumb and index finger) on dry areas of the body to optimise the action of the active ingredients."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "shampoo",
+  "createdAt": {
+    "$date": "2021-03-20T21:50:01.148Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60566e5b5818ae2e1896db3e"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Fresh Cream Shampoo, Shower Gel & Bubble Bath",
+  "img": "20157891103.jpg",
+  "brand": "philosophy",
+  "price": 25.8,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A three-in-one shower gel featuring philosophy's beloved Fresh Cream scent.",
+      "feature": [
+        "Coconut Alkanes",
+        " Tetrahexyldecyl Ascorbate",
+        " Ethyl Linoleate",
+        " Coco-Caprylate/Caprate",
+        " Simmondsia Chinensis (Jojoba) Seed Oil",
+        " Solanum Lycopersicum (Tomato) Fruit Extract",
+        " Squalane."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.",
+      "feature": "Before application, perform a series of deep and invigorating pinching movements (using the thumb and index finger) on dry areas of the body to optimise the action of the active ingredients."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "shampoo",
+  "createdAt": {
+    "$date": "2021-03-20T21:51:23.453Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60566e6d5818ae2e1896db3f"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Baomint™ Moisturizing Shampoo",
+  "img": "adwoa_Shampoo_2k_1600x.jpg",
+  "brand": "philosophy",
+  "price": 29.83,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "A three-in-one shower gel featuring philosophy's beloved Fresh Cream scent.",
+      "feature": [
+        "Coconut Alkanes",
+        " Tetrahexyldecyl Ascorbate",
+        " Ethyl Linoleate",
+        " Coco-Caprylate/Caprate",
+        " Simmondsia Chinensis (Jojoba) Seed Oil",
+        " Solanum Lycopersicum (Tomato) Fruit Extract",
+        " Squalane."
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.\r\n",
+      "feature": "Before application, perform a series of deep and invigorating pinching movements (using the thumb and index finger) on dry areas of the body to optimise the action of the active ingredients."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "shampoo",
+  "createdAt": {
+    "$date": "2021-03-20T21:51:41.826Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6056720e5818ae2e1896db40"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "COCO MADEMOISELLE Foaming Shower Gel",
+  "img": "coco-mademoiselle-foaming-shower-gel-6-8fl-oz--packshot-default-116965-8825994313758.jpg",
+  "brand": "philosophy",
+  "price": 34,
+  "salePrice": 32.5,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Moisturizing and cleansing gel leaves skin lightly fragranced with the feminine and sexy, young and exciting scent. Produces a rich, creamy foam that cleanses the skin gently, turning the bath or shower into a refreshing, relaxing environment.",
+      "feature": [
+        "Water",
+        " Sodium Laureth Sulfate",
+        " Fragrance",
+        " Ppg-26-Buteth-26",
+        " Cocamidopropyl Betaine",
+        " Propylene Glycol",
+        " Peg-40 Hydrogenated Castor Oil",
+        " Polyquaternium-10",
+        " Sodium Chloride",
+        " Linalool",
+        " Citric Acid",
+        " Tetrasodium Edta",
+        " Octocrylene",
+        " Limonene",
+        " Homosalate",
+        " Benzyl Salicylate",
+        " Butyl Methoxydibenzoylmethane"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.",
+      "feature": "Before application, perform a series of deep and invigorating pinching movements (using the thumb and index finger) on dry areas of the body to optimise the action of the active ingredients."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "spritz",
+  "createdAt": {
+    "$date": "2021-03-20T22:07:10.118Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605672185818ae2e1896db41"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Fresh Cream & Mint",
+  "img": "3614222621751_jpg.jpg",
+  "brand": "philosophy",
+  "price": 33.9,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Moisturizing and cleansing gel leaves skin lightly fragranced with the feminine and sexy, young and exciting scent. Produces a rich, creamy foam that cleanses the skin gently, turning the bath or shower into a refreshing, relaxing environment.",
+      "feature": [
+        "Water",
+        " Sodium Laureth Sulfate",
+        " Fragrance",
+        " Ppg-26-Buteth-26",
+        " Cocamidopropyl Betaine",
+        " Propylene Glycol",
+        " Peg-40 Hydrogenated Castor Oil",
+        " Polyquaternium-10",
+        " Sodium Chloride",
+        " Linalool",
+        " Citric Acid",
+        " Tetrasodium Edta",
+        " Octocrylene",
+        " Limonene",
+        " Homosalate",
+        " Benzyl Salicylate",
+        " Butyl Methoxydibenzoylmethane"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.",
+      "feature": "Before application, perform a series of deep and invigorating pinching movements (using the thumb and index finger) on dry areas of the body to optimise the action of the active ingredients."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "spritz",
+  "createdAt": {
+    "$date": "2021-03-20T22:07:20.525Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605672545818ae2e1896db42"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Pure Grace Nude Rose ",
+  "img": "PHL_FRG_PGNudeRose_SG_480ml_S7.jpg",
+  "brand": "philosophy",
+  "price": 33.9,
+  "salePrice": null,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "title": "WHAT IT IS",
+      "description": "Moisturizing and cleansing gel leaves skin lightly fragranced with the feminine and sexy, young and exciting scent. Produces a rich, creamy foam that cleanses the skin gently, turning the bath or shower into a refreshing, relaxing environment.",
+      "feature": [
+        "Water",
+        " Sodium Laureth Sulfate",
+        " Fragrance",
+        " Ppg-26-Buteth-26",
+        " Cocamidopropyl Betaine",
+        " Propylene Glycol",
+        " Peg-40 Hydrogenated Castor Oil",
+        " Polyquaternium-10",
+        " Sodium Chloride",
+        " Linalool",
+        " Citric Acid",
+        " Tetrasodium Edta",
+        " Octocrylene",
+        " Limonene",
+        " Homosalate",
+        " Benzyl Salicylate",
+        " Butyl Methoxydibenzoylmethane"
+      ]
+    },
+    "sub_detail": {
+      "title": "WHY IT'S DIFFERENT",
+      "description": "At the heart of the formula, an advanced moisturising active ingredient guarantees 24-hour moisturising action.",
+      "feature": "Before application, perform a series of deep and invigorating pinching movements (using the thumb and index finger) on dry areas of the body to optimise the action of the active ingredients."
+    },
+    "sub_detail_2": ""
+  },
+  "type": "spritz",
+  "createdAt": {
+    "$date": "2021-03-20T22:08:20.658Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6060d64ec10c384f701cc575"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Hydrating Cleansing Lotion",
+  "img": "432fb261f738ca287e328050bc92ac10.jpg",
+  "brand": "mukti",
+  "price": 20.05,
+  "salePrice": 32.5,
+  "qty": 20,
+  "detail": {
+    "main_detail": {
+      "description": "Surface hydration formula dbcjjsdcb",
+      "feature": [
+        "Cetyl Alcohol",
+        " Cetyl Alcohol",
+        " Cetyl Alcohol",
+        " Cetyl Alcohol"
+      ]
+    },
+    "sub_detail": {
+      "description": "This formula offers non-greasy hydration that acts as a direct topical supplement of impaired NMF components. It contains 11 amino acids, phospholipids, alpha/beta/gamma fatty acids",
+      "feature": "This formula offers non-greasy hydration that acts as a direct topical supplement of impaired NMF components. It contains 11 amino acids, phospholipids, alpha/beta/gamma fatty acids"
+    },
+    "sub_detail_2": "This formula offers non-greasy hydration that acts as a direct topical supplement of impaired NMF components. It contains 11 amino acids, phospholipids, alpha/beta/gamma fatty acids"
+  },
+  "type": "lotion",
+  "createdAt": {
+    "$date": "2021-03-28T19:17:34.412Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6060f4bf49560a4fc083cb4e"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Kill Brow Auto Hard Brow Pencil",
+  "img": "720X720.jpg",
+  "brand": "bobbi brown",
+  "price": 33.9,
+  "salePrice": 18.95,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "description": "An ultra-fine, retractable brow pencil that comes in a variety of different long-wear",
+      "sub_description": "An ultra-fine, retractable brow pencil that comes in a variety of different long-wear, waterproof, smudge-resistant shades, with a built-in paddle brush for easy blending and styling.",
+      "feature": [
+        "This creamy",
+        " super-fine-tipped pencil comes in a variety of shades",
+        " is waterproof",
+        " and resists"
+      ]
+    },
+    "sub_detail": {
+      "feature": "This product is cruelty-free."
+    },
+    "sub_detail_2": "This creamy, super-fine-tipped pencil comes in a variety of shades, is waterproof, and resists"
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2021-03-28T21:27:27.046Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6064306a9d52a71f4c6476b3"
+  },
+  "tag": [
+    ""
+  ],
+  "title": "Kill Brow Brow Pencil",
+  "img": "bb_sku_ECNF01_1080x1080_0.jpg",
+  "brand": "bobbi brown",
+  "price": 33.9,
+  "salePrice": 18.9,
+  "qty": 10,
+  "detail": {
+    "main_detail": {
+      "description": "abcbvjdvbd jdvndkjvnd jsaknckzscn",
+      "sub_description": "bsjbcjbvd vdvjbdjvbd bvdjkvsjkd kjdvjkdnk nkdjsz",
+      "feature": [
+        "nsamvdjdnvdj",
+        " jsnvjdbv svbjkdv",
+        " jsbavkdvkjdnv"
+      ]
+    },
+    "sub_detail": {
+      "feature": "shbcjdvbjdnsknskvx jsbvjdbvdnv nznxcjscnjv jsbvjdjnc"
+    },
+    "sub_detail_2": ""
+  },
+  "type": "eyebrows",
+  "createdAt": {
+    "$date": "2021-03-31T08:18:50.531Z"
+  },
+  "__v": 0
+}]
