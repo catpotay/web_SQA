@@ -56,7 +56,7 @@ app.set('views', path.join(__dirname, 'views'));
 
 async function startServer(){
     try {
-        await mongoose.connect('mongodb://localhost:27017/web_SAD', 
+        await mongoose.connect('mongodb://localhost:27017/web_SQA', 
         { useUnifiedTopology: true , useNewUrlParser: true }, ()=> console.log('connect to Mongodb'));
         await app.listen(PORT);
         console.log(`Server running at ${PORT}`);
