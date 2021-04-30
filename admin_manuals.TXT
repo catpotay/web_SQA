@@ -1,4 +1,0 @@
-Admin account:
-  email: admin@test.com
-  password: 123456
-You can access to website to be administrator to gain access to privilleges as following : editing, adding, removing and updating products in the database. 
