@@ -1,8 +1,0 @@
-In order to register for an official account, please fill in the fields with your authentic email
-so that the system will be able to reach out using your previously given emaail address
-in case we need to contact you when you need to reset your password
-your security questions, etc.
-Using this sample account to login in case you do not gain any access to the website whatsoever: 
-username: nga12012000@gmail.com
-password: 123456
-*ATTENTION* You will not be able to modify/get the reset password link and the password
